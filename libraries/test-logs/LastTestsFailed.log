@@ -1,0 +1,7 @@
+25:Caption:caption effect
+31:Clip:verify parent Timeline
+35:Clip:time remapping
+36:Clip:resample_audio_8000_to_48000_reverse
+94:FrameMapper:resample_audio_48000_to_41000
+95:FrameMapper:resample_audio_mapper
+176:Timeline:Multi-threaded Timeline Add/Remove Clip

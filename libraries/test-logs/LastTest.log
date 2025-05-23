@@ -1,0 +1,4184 @@
+Start testing: May 23 12:11 GMT Daylight Time
+----------------------------------------------------------
+1/193 Testing: AudioDeviceManager:Initialize Audio Device Manager Singleton
+1/193 Test: AudioDeviceManager:Initialize Audio Device Manager Singleton
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioDeviceManager-test.exe" "Initialize Audio Device Manager Singleton"
+Directory: C:/shared/libopenshot/build/tests
+"AudioDeviceManager:Initialize Audio Device Manager Singleton" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:10480): GLib-GIO-WARNING **: 12:11:19.857: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x3
+Filters: "Initialize Audio Device Manager Singleton"
+Randomness seeded to: 1389869024
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   8.23 sec
+----------------------------------------------------------
+Test Passed.
+"AudioDeviceManager:Initialize Audio Device Manager Singleton" end time: May 23 12:11 GMT Daylight Time
+"AudioDeviceManager:Initialize Audio Device Manager Singleton" time elapsed: 00:00:08
+----------------------------------------------------------
+
+2/193 Testing: AudioWaveformer:Extract waveform data piano.wav
+2/193 Test: AudioWaveformer:Extract waveform data piano.wav
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioWaveformer-test.exe" "Extract waveform data piano.wav"
+Directory: C:/shared/libopenshot/build/tests
+"AudioWaveformer:Extract waveform data piano.wav" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Extract waveform data piano.wav"
+Randomness seeded to: 4184029723
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   6.49 sec
+----------------------------------------------------------
+Test Passed.
+"AudioWaveformer:Extract waveform data piano.wav" end time: May 23 12:11 GMT Daylight Time
+"AudioWaveformer:Extract waveform data piano.wav" time elapsed: 00:00:06
+----------------------------------------------------------
+
+3/193 Testing: AudioWaveformer:Extract waveform data sintel
+3/193 Test: AudioWaveformer:Extract waveform data sintel
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioWaveformer-test.exe" "Extract waveform data sintel"
+Directory: C:/shared/libopenshot/build/tests
+"AudioWaveformer:Extract waveform data sintel" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:4304): GLib-GIO-WARNING **: 12:11:33.470: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Extract waveform data sintel"
+Randomness seeded to: 2713345526
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   6.78 sec
+----------------------------------------------------------
+Test Passed.
+"AudioWaveformer:Extract waveform data sintel" end time: May 23 12:11 GMT Daylight Time
+"AudioWaveformer:Extract waveform data sintel" time elapsed: 00:00:06
+----------------------------------------------------------
+
+4/193 Testing: AudioWaveformer:Extract waveform data sintel (all channels)
+4/193 Test: AudioWaveformer:Extract waveform data sintel (all channels)
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioWaveformer-test.exe" "Extract waveform data sintel (all channels)"
+Directory: C:/shared/libopenshot/build/tests
+"AudioWaveformer:Extract waveform data sintel (all channels)" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:1304): GLib-GIO-WARNING **: 12:11:39.490: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Extract waveform data sintel (all channels)"
+Randomness seeded to: 1596070872
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.92 sec
+----------------------------------------------------------
+Test Passed.
+"AudioWaveformer:Extract waveform data sintel (all channels)" end time: May 23 12:11 GMT Daylight Time
+"AudioWaveformer:Extract waveform data sintel (all channels)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+5/193 Testing: AudioWaveformer:Normalize & scale waveform data piano.wav
+5/193 Test: AudioWaveformer:Normalize & scale waveform data piano.wav
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioWaveformer-test.exe" "Normalize & scale waveform data piano.wav"
+Directory: C:/shared/libopenshot/build/tests
+"AudioWaveformer:Normalize & scale waveform data piano.wav" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Normalize & scale waveform data piano.wav"
+Randomness seeded to: 2496996777
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   6.91 sec
+----------------------------------------------------------
+Test Passed.
+"AudioWaveformer:Normalize & scale waveform data piano.wav" end time: May 23 12:11 GMT Daylight Time
+"AudioWaveformer:Normalize & scale waveform data piano.wav" time elapsed: 00:00:06
+----------------------------------------------------------
+
+6/193 Testing: AudioWaveformer:Extract waveform from image (no audio)
+6/193 Test: AudioWaveformer:Extract waveform from image (no audio)
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioWaveformer-test.exe" "Extract waveform from image (no audio)"
+Directory: C:/shared/libopenshot/build/tests
+"AudioWaveformer:Extract waveform from image (no audio)" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Extract waveform from image (no audio)"
+Randomness seeded to: 617114688
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   7.01 sec
+----------------------------------------------------------
+Test Passed.
+"AudioWaveformer:Extract waveform from image (no audio)" end time: May 23 12:11 GMT Daylight Time
+"AudioWaveformer:Extract waveform from image (no audio)" time elapsed: 00:00:07
+----------------------------------------------------------
+
+7/193 Testing: AudioWaveformer:AudioWaveformData struct methods
+7/193 Test: AudioWaveformer:AudioWaveformData struct methods
+Command: "C:/shared/libopenshot/build/tests/openshot-AudioWaveformer-test.exe" "AudioWaveformData struct methods"
+Directory: C:/shared/libopenshot/build/tests
+"AudioWaveformer:AudioWaveformData struct methods" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AudioWaveformData struct methods"
+Randomness seeded to: 1334050459
+===============================================================================
+All tests passed (26 assertions in 1 test case)
+
+<end of output>
+Test time =   5.97 sec
+----------------------------------------------------------
+Test Passed.
+"AudioWaveformer:AudioWaveformData struct methods" end time: May 23 12:11 GMT Daylight Time
+"AudioWaveformer:AudioWaveformData struct methods" time elapsed: 00:00:05
+----------------------------------------------------------
+
+8/193 Testing: CacheDisk:constructor
+8/193 Test: CacheDisk:constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheDisk-test.exe" "constructor"
+Directory: C:/shared/libopenshot/build/tests
+"CacheDisk:constructor" start time: May 23 12:11 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "constructor"
+Randomness seeded to: 1435553790
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.58 sec
+----------------------------------------------------------
+Test Passed.
+"CacheDisk:constructor" end time: May 23 12:12 GMT Daylight Time
+"CacheDisk:constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+9/193 Testing: CacheDisk:MaxBytes constructor
+9/193 Test: CacheDisk:MaxBytes constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheDisk-test.exe" "MaxBytes constructor"
+Directory: C:/shared/libopenshot/build/tests
+"CacheDisk:MaxBytes constructor" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "MaxBytes constructor"
+Randomness seeded to: 3932346796
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.18 sec
+----------------------------------------------------------
+Test Passed.
+"CacheDisk:MaxBytes constructor" end time: May 23 12:12 GMT Daylight Time
+"CacheDisk:MaxBytes constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+10/193 Testing: CacheDisk:SetMaxBytes
+10/193 Test: CacheDisk:SetMaxBytes
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheDisk-test.exe" "SetMaxBytes"
+Directory: C:/shared/libopenshot/build/tests
+"CacheDisk:SetMaxBytes" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SetMaxBytes"
+Randomness seeded to: 3282443851
+===============================================================================
+All tests passed (11 assertions in 1 test case)
+
+<end of output>
+Test time =   6.51 sec
+----------------------------------------------------------
+Test Passed.
+"CacheDisk:SetMaxBytes" end time: May 23 12:12 GMT Daylight Time
+"CacheDisk:SetMaxBytes" time elapsed: 00:00:06
+----------------------------------------------------------
+
+11/193 Testing: CacheDisk:freshen frames
+11/193 Test: CacheDisk:freshen frames
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheDisk-test.exe" "freshen frames"
+Directory: C:/shared/libopenshot/build/tests
+"CacheDisk:freshen frames" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "freshen frames"
+Randomness seeded to: 2223077466
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.64 sec
+----------------------------------------------------------
+Test Passed.
+"CacheDisk:freshen frames" end time: May 23 12:12 GMT Daylight Time
+"CacheDisk:freshen frames" time elapsed: 00:00:06
+----------------------------------------------------------
+
+12/193 Testing: CacheDisk:multiple remove
+12/193 Test: CacheDisk:multiple remove
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheDisk-test.exe" "multiple remove"
+Directory: C:/shared/libopenshot/build/tests
+"CacheDisk:multiple remove" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "multiple remove"
+Randomness seeded to: 583041734
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.73 sec
+----------------------------------------------------------
+Test Passed.
+"CacheDisk:multiple remove" end time: May 23 12:12 GMT Daylight Time
+"CacheDisk:multiple remove" time elapsed: 00:00:06
+----------------------------------------------------------
+
+13/193 Testing: CacheDisk:JSON
+13/193 Test: CacheDisk:JSON
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheDisk-test.exe" "JSON"
+Directory: C:/shared/libopenshot/build/tests
+"CacheDisk:JSON" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "JSON"
+Randomness seeded to: 1375189664
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   6.43 sec
+----------------------------------------------------------
+Test Passed.
+"CacheDisk:JSON" end time: May 23 12:12 GMT Daylight Time
+"CacheDisk:JSON" time elapsed: 00:00:06
+----------------------------------------------------------
+
+14/193 Testing: CacheMemory:default constructor
+14/193 Test: CacheMemory:default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:default constructor" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "default constructor"
+Randomness seeded to: 2666524878
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   6.35 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:default constructor" end time: May 23 12:12 GMT Daylight Time
+"CacheMemory:default constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+15/193 Testing: CacheMemory:MaxBytes constructor
+15/193 Test: CacheMemory:MaxBytes constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "MaxBytes constructor"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:MaxBytes constructor" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "MaxBytes constructor"
+Randomness seeded to: 3944657321
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   6.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:MaxBytes constructor" end time: May 23 12:12 GMT Daylight Time
+"CacheMemory:MaxBytes constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+16/193 Testing: CacheMemory:Clear
+16/193 Test: CacheMemory:Clear
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "Clear"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:Clear" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Clear"
+Randomness seeded to: 3205830804
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.92 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:Clear" end time: May 23 12:12 GMT Daylight Time
+"CacheMemory:Clear" time elapsed: 00:00:05
+----------------------------------------------------------
+
+17/193 Testing: CacheMemory:add duplicate Frames
+17/193 Test: CacheMemory:add duplicate Frames
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "add duplicate Frames"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:add duplicate Frames" start time: May 23 12:12 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "add duplicate Frames"
+Randomness seeded to: 1971211289
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.31 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:add duplicate Frames" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:add duplicate Frames" time elapsed: 00:00:05
+----------------------------------------------------------
+
+18/193 Testing: CacheMemory:check if Frame exists
+18/193 Test: CacheMemory:check if Frame exists
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "check if Frame exists"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:check if Frame exists" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "check if Frame exists"
+Randomness seeded to: 1708714293
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.70 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:check if Frame exists" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:check if Frame exists" time elapsed: 00:00:05
+----------------------------------------------------------
+
+19/193 Testing: CacheMemory:GetFrame
+19/193 Test: CacheMemory:GetFrame
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "GetFrame"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:GetFrame" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetFrame"
+Randomness seeded to: 2255094991
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   6.18 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:GetFrame" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:GetFrame" time elapsed: 00:00:06
+----------------------------------------------------------
+
+20/193 Testing: CacheMemory:GetSmallest
+20/193 Test: CacheMemory:GetSmallest
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "GetSmallest"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:GetSmallest" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetSmallest"
+Randomness seeded to: 1832274251
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.24 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:GetSmallest" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:GetSmallest" time elapsed: 00:00:06
+----------------------------------------------------------
+
+21/193 Testing: CacheMemory:Remove
+21/193 Test: CacheMemory:Remove
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "Remove"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:Remove" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Remove"
+Randomness seeded to: 198017634
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.52 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:Remove" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:Remove" time elapsed: 00:00:06
+----------------------------------------------------------
+
+22/193 Testing: CacheMemory:SetMaxBytes
+22/193 Test: CacheMemory:SetMaxBytes
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "SetMaxBytes"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:SetMaxBytes" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SetMaxBytes"
+Randomness seeded to: 1393553322
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.63 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:SetMaxBytes" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:SetMaxBytes" time elapsed: 00:00:06
+----------------------------------------------------------
+
+23/193 Testing: CacheMemory:multiple remove
+23/193 Test: CacheMemory:multiple remove
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "multiple remove"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:multiple remove" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "multiple remove"
+Randomness seeded to: 2605052497
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.67 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:multiple remove" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:multiple remove" time elapsed: 00:00:06
+----------------------------------------------------------
+
+24/193 Testing: CacheMemory:JSON
+24/193 Test: CacheMemory:JSON
+Command: "C:/shared/libopenshot/build/tests/openshot-CacheMemory-test.exe" "JSON"
+Directory: C:/shared/libopenshot/build/tests
+"CacheMemory:JSON" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "JSON"
+Randomness seeded to: 2778966167
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   6.87 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMemory:JSON" end time: May 23 12:13 GMT Daylight Time
+"CacheMemory:JSON" time elapsed: 00:00:06
+----------------------------------------------------------
+
+25/193 Testing: Caption:caption effect
+25/193 Test: Caption:caption effect
+Command: "C:/shared/libopenshot/build/tests/openshot-Caption-test.exe" "caption effect"
+Directory: C:/shared/libopenshot/build/tests
+"Caption:caption effect" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:7564): GLib-GIO-WARNING **: 12:13:51.881: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "caption effect"
+Randomness seeded to: 1713915248
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+openshot-Caption-test.exe is a Catch2 v3.8.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+caption effect
+  default constructor
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/Caption.cpp:70
+...............................................................................
+
+C:/shared/libopenshot/tests/Caption.cpp:70: FAILED:
+  {Unknown expression after the reported line}
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+-------------------------------------------------------------------------------
+caption effect
+  audio captions
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/Caption.cpp:131
+...............................................................................
+
+C:/shared/libopenshot/tests/Caption.cpp:131: FAILED:
+  {Unknown expression after the reported line}
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+===============================================================================
+test cases:  1 |  0 passed | 1 failed
+assertions: 25 | 23 passed | 2 failed
+
+[SWR @ 00000130ecd41c40] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000130ecd41c40] Context has not been initialized
+[SWR @ 00000130edf23c00] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000130edf23c00] Context has not been initialized
+<end of output>
+Test time =  10.97 sec
+----------------------------------------------------------
+Test Failed.
+"Caption:caption effect" end time: May 23 12:13 GMT Daylight Time
+"Caption:caption effect" time elapsed: 00:00:10
+----------------------------------------------------------
+
+26/193 Testing: Clip:default constructor
+26/193 Test: Clip:default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:default constructor" start time: May 23 12:13 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "default constructor"
+Randomness seeded to: 2990369893
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.59 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:default constructor" end time: May 23 12:14 GMT Daylight Time
+"Clip:default constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+27/193 Testing: Clip:path string constructor
+27/193 Test: Clip:path string constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "path string constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:path string constructor" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "path string constructor"
+Randomness seeded to: 1230189125
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.78 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:path string constructor" end time: May 23 12:14 GMT Daylight Time
+"Clip:path string constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+28/193 Testing: Clip:basic getters and setters
+28/193 Test: Clip:basic getters and setters
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "basic getters and setters"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:basic getters and setters" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "basic getters and setters"
+Randomness seeded to: 319933917
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   5.41 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:basic getters and setters" end time: May 23 12:14 GMT Daylight Time
+"Clip:basic getters and setters" time elapsed: 00:00:05
+----------------------------------------------------------
+
+29/193 Testing: Clip:properties
+29/193 Test: Clip:properties
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "properties"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:properties" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "properties"
+Randomness seeded to: 2318892398
+===============================================================================
+All tests passed (11 assertions in 1 test case)
+
+<end of output>
+Test time =   6.09 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:properties" end time: May 23 12:14 GMT Daylight Time
+"Clip:properties" time elapsed: 00:00:06
+----------------------------------------------------------
+
+30/193 Testing: Clip:effects
+30/193 Test: Clip:effects
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "effects"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:effects" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:4092): GLib-GIO-WARNING **: 12:14:25.251: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "effects"
+Randomness seeded to: 278505967
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   7.74 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:effects" end time: May 23 12:14 GMT Daylight Time
+"Clip:effects" time elapsed: 00:00:07
+----------------------------------------------------------
+
+31/193 Testing: Clip:verify parent Timeline
+31/193 Test: Clip:verify parent Timeline
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "verify parent Timeline"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:verify parent Timeline" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:2468): GLib-GIO-WARNING **: 12:14:33.572: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "verify parent Timeline"
+Randomness seeded to: 578054450
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+openshot-Clip-test.exe is a Catch2 v3.8.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+verify parent Timeline
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/Clip.cpp:224
+...............................................................................
+
+C:/shared/libopenshot/tests/Clip.cpp:242: FAILED:
+  CHECK( 640 == c1.GetFrame(1)->GetImage()->width() )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/Clip.cpp:243: FAILED:
+  CHECK( 360 == c1.GetFrame(1)->GetImage()->height() )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 4 | 2 passed | 2 failed
+
+[SWR @ 000001bf3206e4c0] Input channel layout "" is invalid or unsupported.
+[SWR @ 000001bf3206e4c0] Context has not been initialized
+[SWR @ 000001bf3206e4c0] Context has not been initialized
+<end of output>
+Test time =   7.15 sec
+----------------------------------------------------------
+Test Failed.
+"Clip:verify parent Timeline" end time: May 23 12:14 GMT Daylight Time
+"Clip:verify parent Timeline" time elapsed: 00:00:07
+----------------------------------------------------------
+
+32/193 Testing: Clip:has_video
+32/193 Test: Clip:has_video
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "has_video"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:has_video" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:1060): GLib-GIO-WARNING **: 12:14:40.767: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "has_video"
+Randomness seeded to: 562585234
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   6.92 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:has_video" end time: May 23 12:14 GMT Daylight Time
+"Clip:has_video" time elapsed: 00:00:06
+----------------------------------------------------------
+
+33/193 Testing: Clip:access frames past reader length
+33/193 Test: Clip:access frames past reader length
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "access frames past reader length"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:access frames past reader length" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "access frames past reader length"
+Randomness seeded to: 4021378585
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   6.51 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:access frames past reader length" end time: May 23 12:14 GMT Daylight Time
+"Clip:access frames past reader length" time elapsed: 00:00:06
+----------------------------------------------------------
+
+34/193 Testing: Clip:setting and clobbering readers
+34/193 Test: Clip:setting and clobbering readers
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "setting and clobbering readers"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:setting and clobbering readers" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "setting and clobbering readers"
+Randomness seeded to: 1479148909
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =   6.01 sec
+----------------------------------------------------------
+Test Passed.
+"Clip:setting and clobbering readers" end time: May 23 12:14 GMT Daylight Time
+"Clip:setting and clobbering readers" time elapsed: 00:00:06
+----------------------------------------------------------
+
+35/193 Testing: Clip:time remapping
+35/193 Test: Clip:time remapping
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "time remapping"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:time remapping" start time: May 23 12:14 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "time remapping"
+Randomness seeded to: 2108013128
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+openshot-Clip-test.exe is a Catch2 v3.8.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+time remapping
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/Clip.cpp:375
+...............................................................................
+
+C:/shared/libopenshot/tests/Clip.cpp:375: FAILED:
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+[SWR @ 0000025a79820140] Input channel layout "" is invalid or unsupported.
+[SWR @ 0000025a79820140] Context has not been initialized
+<end of output>
+Test time =   6.40 sec
+----------------------------------------------------------
+Test Failed.
+"Clip:time remapping" end time: May 23 12:15 GMT Daylight Time
+"Clip:time remapping" time elapsed: 00:00:06
+----------------------------------------------------------
+
+36/193 Testing: Clip:resample_audio_8000_to_48000_reverse
+36/193 Test: Clip:resample_audio_8000_to_48000_reverse
+Command: "C:/shared/libopenshot/build/tests/openshot-Clip-test.exe" "resample_audio_8000_to_48000_reverse"
+Directory: C:/shared/libopenshot/build/tests
+"Clip:resample_audio_8000_to_48000_reverse" start time: May 23 12:15 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "resample_audio_8000_to_48000_reverse"
+Randomness seeded to: 1915040859
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+openshot-Clip-test.exe is a Catch2 v3.8.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+resample_audio_8000_to_48000_reverse
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/Clip.cpp:440
+...............................................................................
+
+C:/shared/libopenshot/tests/Clip.cpp:440: FAILED:
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+[SWR @ 000001dcfe292700] Input channel layout "" is invalid or unsupported.
+[SWR @ 000001dcfe292700] Context has not been initialized
+<end of output>
+Test time =   6.96 sec
+----------------------------------------------------------
+Test Failed.
+"Clip:resample_audio_8000_to_48000_reverse" end time: May 23 12:15 GMT Daylight Time
+"Clip:resample_audio_8000_to_48000_reverse" time elapsed: 00:00:06
+----------------------------------------------------------
+
+37/193 Testing: Color:default constructor
+37/193 Test: Color:default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Color:default constructor" start time: May 23 12:15 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "default constructor"
+Randomness seeded to: 2072799756
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.52 sec
+----------------------------------------------------------
+Test Passed.
+"Color:default constructor" end time: May 23 12:15 GMT Daylight Time
+"Color:default constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+38/193 Testing: Color:Keyframe constructor
+38/193 Test: Color:Keyframe constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "Keyframe constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Color:Keyframe constructor" start time: May 23 12:15 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Keyframe constructor"
+Randomness seeded to: 1114989676
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.09 sec
+----------------------------------------------------------
+Test Passed.
+"Color:Keyframe constructor" end time: May 23 12:15 GMT Daylight Time
+"Color:Keyframe constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+39/193 Testing: Color:Animate_Colors
+39/193 Test: Color:Animate_Colors
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "Animate_Colors"
+Directory: C:/shared/libopenshot/build/tests
+"Color:Animate_Colors" start time: May 23 12:15 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Animate_Colors"
+Randomness seeded to: 300675111
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.04 sec
+----------------------------------------------------------
+Test Passed.
+"Color:Animate_Colors" end time: May 23 12:15 GMT Daylight Time
+"Color:Animate_Colors" time elapsed: 00:00:06
+----------------------------------------------------------
+
+40/193 Testing: Color:HEX_Value
+40/193 Test: Color:HEX_Value
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "HEX_Value"
+Directory: C:/shared/libopenshot/build/tests
+"Color:HEX_Value" start time: May 23 12:15 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "HEX_Value"
+Randomness seeded to: 1467006801
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.42 sec
+----------------------------------------------------------
+Test Passed.
+"Color:HEX_Value" end time: May 23 12:15 GMT Daylight Time
+"Color:HEX_Value" time elapsed: 00:00:06
+----------------------------------------------------------
+
+41/193 Testing: Color:QColor ctor
+41/193 Test: Color:QColor ctor
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "QColor ctor"
+Directory: C:/shared/libopenshot/build/tests
+"Color:QColor ctor" start time: May 23 12:15 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "QColor ctor"
+Randomness seeded to: 4008964782
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.32 sec
+----------------------------------------------------------
+Test Passed.
+"Color:QColor ctor" end time: May 23 12:20 GMT Daylight Time
+"Color:QColor ctor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+42/193 Testing: Color:std::string construction
+42/193 Test: Color:std::string construction
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "std::string construction"
+Directory: C:/shared/libopenshot/build/tests
+"Color:std::string construction" start time: May 23 12:20 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "std::string construction"
+Randomness seeded to: 1456573173
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.95 sec
+----------------------------------------------------------
+Test Passed.
+"Color:std::string construction" end time: May 23 12:20 GMT Daylight Time
+"Color:std::string construction" time elapsed: 00:00:05
+----------------------------------------------------------
+
+43/193 Testing: Color:Distance
+43/193 Test: Color:Distance
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "Distance"
+Directory: C:/shared/libopenshot/build/tests
+"Color:Distance" start time: May 23 12:20 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Distance"
+Randomness seeded to: 3277054063
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.75 sec
+----------------------------------------------------------
+Test Passed.
+"Color:Distance" end time: May 23 12:20 GMT Daylight Time
+"Color:Distance" time elapsed: 00:00:05
+----------------------------------------------------------
+
+44/193 Testing: Color:RGBA_Constructor
+44/193 Test: Color:RGBA_Constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "RGBA_Constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Color:RGBA_Constructor" start time: May 23 12:20 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "RGBA_Constructor"
+Randomness seeded to: 4071101852
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   6.13 sec
+----------------------------------------------------------
+Test Passed.
+"Color:RGBA_Constructor" end time: May 23 12:20 GMT Daylight Time
+"Color:RGBA_Constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+45/193 Testing: Color:Json
+45/193 Test: Color:Json
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "Json"
+Directory: C:/shared/libopenshot/build/tests
+"Color:Json" start time: May 23 12:20 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Json"
+Randomness seeded to: 3102325933
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   6.16 sec
+----------------------------------------------------------
+Test Passed.
+"Color:Json" end time: May 23 12:20 GMT Daylight Time
+"Color:Json" time elapsed: 00:00:06
+----------------------------------------------------------
+
+46/193 Testing: Color:SetJson
+46/193 Test: Color:SetJson
+Command: "C:/shared/libopenshot/build/tests/openshot-Color-test.exe" "SetJson"
+Directory: C:/shared/libopenshot/build/tests
+"Color:SetJson" start time: May 23 12:20 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SetJson"
+Randomness seeded to: 460263880
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.88 sec
+----------------------------------------------------------
+Test Passed.
+"Color:SetJson" end time: May 23 12:21 GMT Daylight Time
+"Color:SetJson" time elapsed: 00:00:05
+----------------------------------------------------------
+
+47/193 Testing: Coordinate:default constructor
+47/193 Test: Coordinate:default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Coordinate-test.exe" "default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Coordinate:default constructor" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "default constructor"
+Randomness seeded to: 214787047
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.97 sec
+----------------------------------------------------------
+Test Passed.
+"Coordinate:default constructor" end time: May 23 12:21 GMT Daylight Time
+"Coordinate:default constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+48/193 Testing: Coordinate:XY constructor
+48/193 Test: Coordinate:XY constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Coordinate-test.exe" "XY constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Coordinate:XY constructor" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "XY constructor"
+Randomness seeded to: 2963401169
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.11 sec
+----------------------------------------------------------
+Test Passed.
+"Coordinate:XY constructor" end time: May 23 12:21 GMT Daylight Time
+"Coordinate:XY constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+49/193 Testing: Coordinate:std::pair constructor
+49/193 Test: Coordinate:std::pair constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Coordinate-test.exe" "std::pair constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Coordinate:std::pair constructor" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "std::pair constructor"
+Randomness seeded to: 2056159872
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.90 sec
+----------------------------------------------------------
+Test Passed.
+"Coordinate:std::pair constructor" end time: May 23 12:21 GMT Daylight Time
+"Coordinate:std::pair constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+50/193 Testing: Coordinate:Json
+50/193 Test: Coordinate:Json
+Command: "C:/shared/libopenshot/build/tests/openshot-Coordinate-test.exe" "Json"
+Directory: C:/shared/libopenshot/build/tests
+"Coordinate:Json" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Json"
+Randomness seeded to: 1221834135
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.54 sec
+----------------------------------------------------------
+Test Passed.
+"Coordinate:Json" end time: May 23 12:21 GMT Daylight Time
+"Coordinate:Json" time elapsed: 00:00:05
+----------------------------------------------------------
+
+51/193 Testing: Coordinate:SetJson
+51/193 Test: Coordinate:SetJson
+Command: "C:/shared/libopenshot/build/tests/openshot-Coordinate-test.exe" "SetJson"
+Directory: C:/shared/libopenshot/build/tests
+"Coordinate:SetJson" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SetJson"
+Randomness seeded to: 993768480
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.76 sec
+----------------------------------------------------------
+Test Passed.
+"Coordinate:SetJson" end time: May 23 12:21 GMT Daylight Time
+"Coordinate:SetJson" time elapsed: 00:00:05
+----------------------------------------------------------
+
+52/193 Testing: DummyReader:Default constructor
+52/193 Test: DummyReader:Default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-DummyReader-test.exe" "Default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"DummyReader:Default constructor" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Default constructor"
+Randomness seeded to: 3905844017
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   5.84 sec
+----------------------------------------------------------
+Test Passed.
+"DummyReader:Default constructor" end time: May 23 12:21 GMT Daylight Time
+"DummyReader:Default constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+53/193 Testing: DummyReader:Constructor
+53/193 Test: DummyReader:Constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-DummyReader-test.exe" "Constructor"
+Directory: C:/shared/libopenshot/build/tests
+"DummyReader:Constructor" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Constructor"
+Randomness seeded to: 46366412
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   6.12 sec
+----------------------------------------------------------
+Test Passed.
+"DummyReader:Constructor" end time: May 23 12:21 GMT Daylight Time
+"DummyReader:Constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+54/193 Testing: DummyReader:Blank_Frame
+54/193 Test: DummyReader:Blank_Frame
+Command: "C:/shared/libopenshot/build/tests/openshot-DummyReader-test.exe" "Blank_Frame"
+Directory: C:/shared/libopenshot/build/tests
+"DummyReader:Blank_Frame" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Blank_Frame"
+Randomness seeded to: 4227147279
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.63 sec
+----------------------------------------------------------
+Test Passed.
+"DummyReader:Blank_Frame" end time: May 23 12:21 GMT Daylight Time
+"DummyReader:Blank_Frame" time elapsed: 00:00:05
+----------------------------------------------------------
+
+55/193 Testing: DummyReader:Fake_Frame
+55/193 Test: DummyReader:Fake_Frame
+Command: "C:/shared/libopenshot/build/tests/openshot-DummyReader-test.exe" "Fake_Frame"
+Directory: C:/shared/libopenshot/build/tests
+"DummyReader:Fake_Frame" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Fake_Frame"
+Randomness seeded to: 2033671339
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   6.09 sec
+----------------------------------------------------------
+Test Passed.
+"DummyReader:Fake_Frame" end time: May 23 12:21 GMT Daylight Time
+"DummyReader:Fake_Frame" time elapsed: 00:00:06
+----------------------------------------------------------
+
+56/193 Testing: DummyReader:Json
+56/193 Test: DummyReader:Json
+Command: "C:/shared/libopenshot/build/tests/openshot-DummyReader-test.exe" "Json"
+Directory: C:/shared/libopenshot/build/tests
+"DummyReader:Json" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Json"
+Randomness seeded to: 2260915355
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.15 sec
+----------------------------------------------------------
+Test Passed.
+"DummyReader:Json" end time: May 23 12:21 GMT Daylight Time
+"DummyReader:Json" time elapsed: 00:00:05
+----------------------------------------------------------
+
+57/193 Testing: DummyReader:SetJson
+57/193 Test: DummyReader:SetJson
+Command: "C:/shared/libopenshot/build/tests/openshot-DummyReader-test.exe" "SetJson"
+Directory: C:/shared/libopenshot/build/tests
+"DummyReader:SetJson" start time: May 23 12:21 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SetJson"
+Randomness seeded to: 2538616754
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.74 sec
+----------------------------------------------------------
+Test Passed.
+"DummyReader:SetJson" end time: May 23 12:22 GMT Daylight Time
+"DummyReader:SetJson" time elapsed: 00:00:05
+----------------------------------------------------------
+
+58/193 Testing: FFmpegReader:Invalid_Path
+58/193 Test: FFmpegReader:Invalid_Path
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Invalid_Path"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Invalid_Path" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Invalid_Path"
+Randomness seeded to: 2817701570
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.21 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Invalid_Path" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:Invalid_Path" time elapsed: 00:00:05
+----------------------------------------------------------
+
+59/193 Testing: FFmpegReader:GetFrame_Before_Opening
+59/193 Test: FFmpegReader:GetFrame_Before_Opening
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "GetFrame_Before_Opening"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:GetFrame_Before_Opening" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetFrame_Before_Opening"
+Randomness seeded to: 1434349814
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.34 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:GetFrame_Before_Opening" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:GetFrame_Before_Opening" time elapsed: 00:00:06
+----------------------------------------------------------
+
+60/193 Testing: FFmpegReader:Check_Audio_File
+60/193 Test: FFmpegReader:Check_Audio_File
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Check_Audio_File"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Check_Audio_File" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Check_Audio_File"
+Randomness seeded to: 3096806935
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   6.62 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Check_Audio_File" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:Check_Audio_File" time elapsed: 00:00:06
+----------------------------------------------------------
+
+61/193 Testing: FFmpegReader:Check_Video_File
+61/193 Test: FFmpegReader:Check_Video_File
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Check_Video_File"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Check_Video_File" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:9300): GLib-GIO-WARNING **: 12:22:29.287: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Check_Video_File"
+Randomness seeded to: 864575426
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   5.86 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Check_Video_File" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:Check_Video_File" time elapsed: 00:00:05
+----------------------------------------------------------
+
+62/193 Testing: FFmpegReader:Seek
+62/193 Test: FFmpegReader:Seek
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Seek"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Seek" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:2100): GLib-GIO-WARNING **: 12:22:36.037: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Seek"
+Randomness seeded to: 1021996329
+===============================================================================
+All tests passed (11 assertions in 1 test case)
+
+<end of output>
+Test time =  11.12 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Seek" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:Seek" time elapsed: 00:00:11
+----------------------------------------------------------
+
+63/193 Testing: FFmpegReader:Frame_Rate
+63/193 Test: FFmpegReader:Frame_Rate
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Frame_Rate"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Frame_Rate" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Frame_Rate"
+Randomness seeded to: 3964764730
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.39 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Frame_Rate" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:Frame_Rate" time elapsed: 00:00:05
+----------------------------------------------------------
+
+64/193 Testing: FFmpegReader:Multiple_Open_and_Close
+64/193 Test: FFmpegReader:Multiple_Open_and_Close
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Multiple_Open_and_Close"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Multiple_Open_and_Close" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:6376): GLib-GIO-WARNING **: 12:22:52.558: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Multiple_Open_and_Close"
+Randomness seeded to: 3852544298
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   8.42 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Multiple_Open_and_Close" end time: May 23 12:22 GMT Daylight Time
+"FFmpegReader:Multiple_Open_and_Close" time elapsed: 00:00:08
+----------------------------------------------------------
+
+65/193 Testing: FFmpegReader:verify parent Timeline
+65/193 Test: FFmpegReader:verify parent Timeline
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "verify parent Timeline"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:verify parent Timeline" start time: May 23 12:22 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:6700): GLib-GIO-WARNING **: 12:23:00.625: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "verify parent Timeline"
+Randomness seeded to: 3613049452
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.65 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:verify parent Timeline" end time: May 23 12:23 GMT Daylight Time
+"FFmpegReader:verify parent Timeline" time elapsed: 00:00:06
+----------------------------------------------------------
+
+66/193 Testing: FFmpegReader:DisplayInfo
+66/193 Test: FFmpegReader:DisplayInfo
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "DisplayInfo"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:DisplayInfo" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "DisplayInfo"
+Randomness seeded to: 1366141814
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.66 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:DisplayInfo" end time: May 23 12:23 GMT Daylight Time
+"FFmpegReader:DisplayInfo" time elapsed: 00:00:05
+----------------------------------------------------------
+
+67/193 Testing: FFmpegReader:Decoding AV1 Video
+67/193 Test: FFmpegReader:Decoding AV1 Video
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegReader-test.exe" "Decoding AV1 Video"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegReader:Decoding AV1 Video" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:9028): GLib-GIO-WARNING **: 12:23:13.296: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Decoding AV1 Video"
+Randomness seeded to: 3769527990
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =  11.23 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegReader:Decoding AV1 Video" end time: May 23 12:23 GMT Daylight Time
+"FFmpegReader:Decoding AV1 Video" time elapsed: 00:00:11
+----------------------------------------------------------
+
+68/193 Testing: FFmpegWriter:Webm
+68/193 Test: FFmpegWriter:Webm
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegWriter-test.exe" "Webm"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegWriter:Webm" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+[libvpx @ 000002037ecc6ac0] v1.15.1
+
+(process:10808): GLib-GIO-WARNING **: 12:23:23.702: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Webm"
+Randomness seeded to: 3645692202
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+[libvpx @ 000002037ecc6ac0] Ignoring attempt to flush encoder that doesn't support it
+[libvorbis @ 000002037ecc4240] 19 frames left in the queue on closing
+<end of output>
+Test time =   6.94 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegWriter:Webm" end time: May 23 12:23 GMT Daylight Time
+"FFmpegWriter:Webm" time elapsed: 00:00:06
+----------------------------------------------------------
+
+69/193 Testing: FFmpegWriter:Options_Overloads
+69/193 Test: FFmpegWriter:Options_Overloads
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegWriter-test.exe" "Options_Overloads"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegWriter:Options_Overloads" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+[libx264 @ 000002c6fb228880] using SAR=1/1
+[libx264 @ 000002c6fb228880] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000002c6fb228880] profile High, level 3.1, 4:2:0, 8-bit
+[libx264 @ 000002c6fb228880] 264 - core 164 r3161M a354f11 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=2 keyint=12 keyint_min=1 scenecut=40 intra_refresh=0 rc_lookahead=12 rc=abr mbtree=1 bitrate=5000 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+
+(process:8840): GLib-GIO-WARNING **: 12:23:31.232: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Options_Overloads"
+Randomness seeded to: 1582104878
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+[libx264 @ 000002c6fb228880] frame I:4     Avg QP: 7.20  size: 21177
+[libx264 @ 000002c6fb228880] frame P:23    Avg QP: 7.92  size: 22019
+[libx264 @ 000002c6fb228880] mb I  I16..4: 45.6% 41.4% 13.0%
+[libx264 @ 000002c6fb228880] mb P  I16..4: 12.5% 23.6%  7.5%  P16..4: 15.7%  7.9%  4.3%  0.0%  0.0%    skip:28.5%
+[libx264 @ 000002c6fb228880] final ratefactor: 10.12
+[libx264 @ 000002c6fb228880] 8x8 transform intra:50.5% inter:52.5%
+[libx264 @ 000002c6fb228880] coded y,uvDC,uvAC intra: 34.4% 25.5% 18.5% inter: 23.0% 10.3% 4.7%
+[libx264 @ 000002c6fb228880] i16 v,h,dc,p: 57% 29% 10%  4%
+[libx264 @ 000002c6fb228880] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 36% 20% 30%  3%  3%  2%  2%  2%  3%
+[libx264 @ 000002c6fb228880] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 36% 29% 18%  3%  4%  3%  2%  2%  2%
+[libx264 @ 000002c6fb228880] i8c dc,h,v,p: 81%  9%  9%  1%
+[libx264 @ 000002c6fb228880] Weighted P-Frames: Y:8.7% UV:0.0%
+[libx264 @ 000002c6fb228880] ref P L0: 76.6%  1.7% 16.3%  5.0%  0.5%
+[libx264 @ 000002c6fb228880] kb/s:5254.68
+[aac @ 000002c6fb229680] Qavg: 193.534
+[aac @ 000002c6fb229680] 1 frames left in the queue on closing
+<end of output>
+Test time =   7.80 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegWriter:Options_Overloads" end time: May 23 12:23 GMT Daylight Time
+"FFmpegWriter:Options_Overloads" time elapsed: 00:00:07
+----------------------------------------------------------
+
+70/193 Testing: FFmpegWriter:DisplayInfo
+70/193 Test: FFmpegWriter:DisplayInfo
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegWriter-test.exe" "DisplayInfo"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegWriter:DisplayInfo" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "DisplayInfo"
+Randomness seeded to: 509111429
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+[libvpx @ 0000020c7a42f900] v1.15.1
+[libvpx @ 0000020c7a42f900] Ignoring attempt to flush encoder that doesn't support it
+[libvorbis @ 0000020c796e8bc0] 1 frames left in the queue on closing
+<end of output>
+Test time =   6.14 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegWriter:DisplayInfo" end time: May 23 12:23 GMT Daylight Time
+"FFmpegWriter:DisplayInfo" time elapsed: 00:00:06
+----------------------------------------------------------
+
+71/193 Testing: FFmpegWriter:Gif
+71/193 Test: FFmpegWriter:Gif
+Command: "C:/shared/libopenshot/build/tests/openshot-FFmpegWriter-test.exe" "Gif"
+Directory: C:/shared/libopenshot/build/tests
+"FFmpegWriter:Gif" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:8920): GLib-GIO-WARNING **: 12:23:45.108: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Gif"
+Randomness seeded to: 2896225160
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+[gif @ 000002517ce42c40] Ignoring attempt to flush encoder that doesn't support it
+<end of output>
+Test time =   7.30 sec
+----------------------------------------------------------
+Test Passed.
+"FFmpegWriter:Gif" end time: May 23 12:23 GMT Daylight Time
+"FFmpegWriter:Gif" time elapsed: 00:00:07
+----------------------------------------------------------
+
+72/193 Testing: Fraction:Constructors
+72/193 Test: Fraction:Constructors
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Constructors"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Constructors" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Constructors"
+Randomness seeded to: 1551747248
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   5.16 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Constructors" end time: May 23 12:23 GMT Daylight Time
+"Fraction:Constructors" time elapsed: 00:00:05
+----------------------------------------------------------
+
+73/193 Testing: Fraction:Alt_Constructors
+73/193 Test: Fraction:Alt_Constructors
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Alt_Constructors"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Alt_Constructors" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Alt_Constructors"
+Randomness seeded to: 833216403
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.76 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Alt_Constructors" end time: May 23 12:23 GMT Daylight Time
+"Fraction:Alt_Constructors" time elapsed: 00:00:05
+----------------------------------------------------------
+
+74/193 Testing: Fraction:WxH_640_480
+74/193 Test: Fraction:WxH_640_480
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "WxH_640_480"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:WxH_640_480" start time: May 23 12:23 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "WxH_640_480"
+Randomness seeded to: 3856843034
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   5.43 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:WxH_640_480" end time: May 23 12:24 GMT Daylight Time
+"Fraction:WxH_640_480" time elapsed: 00:00:05
+----------------------------------------------------------
+
+75/193 Testing: Fraction:WxH_1280_720
+75/193 Test: Fraction:WxH_1280_720
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "WxH_1280_720"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:WxH_1280_720" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "WxH_1280_720"
+Randomness seeded to: 2000048540
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   5.75 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:WxH_1280_720" end time: May 23 12:24 GMT Daylight Time
+"Fraction:WxH_1280_720" time elapsed: 00:00:05
+----------------------------------------------------------
+
+76/193 Testing: Fraction:Reciprocal
+76/193 Test: Fraction:Reciprocal
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Reciprocal"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Reciprocal" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Reciprocal"
+Randomness seeded to: 1035414297
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   5.94 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Reciprocal" end time: May 23 12:24 GMT Daylight Time
+"Fraction:Reciprocal" time elapsed: 00:00:05
+----------------------------------------------------------
+
+77/193 Testing: Fraction:Fraction operations
+77/193 Test: Fraction:Fraction operations
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Fraction operations"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Fraction operations" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Fraction operations"
+Randomness seeded to: 2222966523
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.93 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Fraction operations" end time: May 23 12:24 GMT Daylight Time
+"Fraction:Fraction operations" time elapsed: 00:00:05
+----------------------------------------------------------
+
+78/193 Testing: Fraction:Numeric multiplication
+78/193 Test: Fraction:Numeric multiplication
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Numeric multiplication"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Numeric multiplication" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Numeric multiplication"
+Randomness seeded to: 2155342754
+===============================================================================
+All tests passed (20 assertions in 1 test case)
+
+<end of output>
+Test time =   5.65 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Numeric multiplication" end time: May 23 12:24 GMT Daylight Time
+"Fraction:Numeric multiplication" time elapsed: 00:00:05
+----------------------------------------------------------
+
+79/193 Testing: Fraction:Numeric division
+79/193 Test: Fraction:Numeric division
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Numeric division"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Numeric division" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Numeric division"
+Randomness seeded to: 2175258218
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   5.60 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Numeric division" end time: May 23 12:24 GMT Daylight Time
+"Fraction:Numeric division" time elapsed: 00:00:05
+----------------------------------------------------------
+
+80/193 Testing: Fraction:Operator ostream
+80/193 Test: Fraction:Operator ostream
+Command: "C:/shared/libopenshot/build/tests/openshot-Fraction-test.exe" "Operator ostream"
+Directory: C:/shared/libopenshot/build/tests
+"Fraction:Operator ostream" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Operator ostream"
+Randomness seeded to: 2549922099
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.16 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction:Operator ostream" end time: May 23 12:24 GMT Daylight Time
+"Fraction:Operator ostream" time elapsed: 00:00:06
+----------------------------------------------------------
+
+81/193 Testing: Frame:Default_Constructor
+81/193 Test: Frame:Default_Constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Frame-test.exe" "Default_Constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Frame:Default_Constructor" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Default_Constructor"
+Randomness seeded to: 712289403
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   5.90 sec
+----------------------------------------------------------
+Test Passed.
+"Frame:Default_Constructor" end time: May 23 12:24 GMT Daylight Time
+"Frame:Default_Constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+82/193 Testing: Frame:Data_Access
+82/193 Test: Frame:Data_Access
+Command: "C:/shared/libopenshot/build/tests/openshot-Frame-test.exe" "Data_Access"
+Directory: C:/shared/libopenshot/build/tests
+"Frame:Data_Access" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:9024): GLib-GIO-WARNING **: 12:24:50.343: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Data_Access"
+Randomness seeded to: 633501868
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.59 sec
+----------------------------------------------------------
+Test Passed.
+"Frame:Data_Access" end time: May 23 12:24 GMT Daylight Time
+"Frame:Data_Access" time elapsed: 00:00:06
+----------------------------------------------------------
+
+83/193 Testing: Frame:AddImage_QImage
+83/193 Test: Frame:AddImage_QImage
+Command: "C:/shared/libopenshot/build/tests/openshot-Frame-test.exe" "AddImage_QImage"
+Directory: C:/shared/libopenshot/build/tests
+"Frame:AddImage_QImage" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AddImage_QImage"
+Randomness seeded to: 129092217
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.53 sec
+----------------------------------------------------------
+Test Passed.
+"Frame:AddImage_QImage" end time: May 23 12:24 GMT Daylight Time
+"Frame:AddImage_QImage" time elapsed: 00:00:05
+----------------------------------------------------------
+
+84/193 Testing: Frame:Copy_Constructor
+84/193 Test: Frame:Copy_Constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Frame-test.exe" "Copy_Constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Frame:Copy_Constructor" start time: May 23 12:24 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Copy_Constructor"
+Randomness seeded to: 943550822
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   5.94 sec
+----------------------------------------------------------
+Test Passed.
+"Frame:Copy_Constructor" end time: May 23 12:25 GMT Daylight Time
+"Frame:Copy_Constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+85/193 Testing: Frame:Convert_Image
+85/193 Test: Frame:Convert_Image
+Command: "C:/shared/libopenshot/build/tests/openshot-Frame-test.exe" "Convert_Image"
+Directory: C:/shared/libopenshot/build/tests
+"Frame:Convert_Image" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:9784): GLib-GIO-WARNING **: 12:25:08.267: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Convert_Image"
+Randomness seeded to: 394999298
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   6.40 sec
+----------------------------------------------------------
+Test Passed.
+"Frame:Convert_Image" end time: May 23 12:25 GMT Daylight Time
+"Frame:Convert_Image" time elapsed: 00:00:06
+----------------------------------------------------------
+
+86/193 Testing: FrameMapper:NoOp_GetMappedFrame
+86/193 Test: FrameMapper:NoOp_GetMappedFrame
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "NoOp_GetMappedFrame"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:NoOp_GetMappedFrame" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "NoOp_GetMappedFrame"
+Randomness seeded to: 1643661334
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.12 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:NoOp_GetMappedFrame" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:NoOp_GetMappedFrame" time elapsed: 00:00:06
+----------------------------------------------------------
+
+87/193 Testing: FrameMapper:Invalid_Frame_Too_Small
+87/193 Test: FrameMapper:Invalid_Frame_Too_Small
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "Invalid_Frame_Too_Small"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:Invalid_Frame_Too_Small" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Invalid_Frame_Too_Small"
+Randomness seeded to: 2114561522
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.33 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:Invalid_Frame_Too_Small" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:Invalid_Frame_Too_Small" time elapsed: 00:00:06
+----------------------------------------------------------
+
+88/193 Testing: FrameMapper:24_fps_to_30_fps_Pulldown_Classic
+88/193 Test: FrameMapper:24_fps_to_30_fps_Pulldown_Classic
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "24_fps_to_30_fps_Pulldown_Classic"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:24_fps_to_30_fps_Pulldown_Classic" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "24_fps_to_30_fps_Pulldown_Classic"
+Randomness seeded to: 2395900761
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.52 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:24_fps_to_30_fps_Pulldown_Classic" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:24_fps_to_30_fps_Pulldown_Classic" time elapsed: 00:00:06
+----------------------------------------------------------
+
+89/193 Testing: FrameMapper:24_fps_to_30_fps_Pulldown_Advanced
+89/193 Test: FrameMapper:24_fps_to_30_fps_Pulldown_Advanced
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "24_fps_to_30_fps_Pulldown_Advanced"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:24_fps_to_30_fps_Pulldown_Advanced" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "24_fps_to_30_fps_Pulldown_Advanced"
+Randomness seeded to: 1396388630
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.46 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:24_fps_to_30_fps_Pulldown_Advanced" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:24_fps_to_30_fps_Pulldown_Advanced" time elapsed: 00:00:06
+----------------------------------------------------------
+
+90/193 Testing: FrameMapper:24_fps_to_30_fps_Pulldown_None
+90/193 Test: FrameMapper:24_fps_to_30_fps_Pulldown_None
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "24_fps_to_30_fps_Pulldown_None"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:24_fps_to_30_fps_Pulldown_None" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "24_fps_to_30_fps_Pulldown_None"
+Randomness seeded to: 1542072630
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.56 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:24_fps_to_30_fps_Pulldown_None" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:24_fps_to_30_fps_Pulldown_None" time elapsed: 00:00:06
+----------------------------------------------------------
+
+91/193 Testing: FrameMapper:30_fps_to_24_fps_Pulldown_Classic
+91/193 Test: FrameMapper:30_fps_to_24_fps_Pulldown_Classic
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "30_fps_to_24_fps_Pulldown_Classic"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:30_fps_to_24_fps_Pulldown_Classic" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "30_fps_to_24_fps_Pulldown_Classic"
+Randomness seeded to: 2009680054
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.10 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:30_fps_to_24_fps_Pulldown_Classic" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:30_fps_to_24_fps_Pulldown_Classic" time elapsed: 00:00:06
+----------------------------------------------------------
+
+92/193 Testing: FrameMapper:30_fps_to_24_fps_Pulldown_Advanced
+92/193 Test: FrameMapper:30_fps_to_24_fps_Pulldown_Advanced
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "30_fps_to_24_fps_Pulldown_Advanced"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:30_fps_to_24_fps_Pulldown_Advanced" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "30_fps_to_24_fps_Pulldown_Advanced"
+Randomness seeded to: 1239581404
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.43 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:30_fps_to_24_fps_Pulldown_Advanced" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:30_fps_to_24_fps_Pulldown_Advanced" time elapsed: 00:00:06
+----------------------------------------------------------
+
+93/193 Testing: FrameMapper:30_fps_to_24_fps_Pulldown_None
+93/193 Test: FrameMapper:30_fps_to_24_fps_Pulldown_None
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "30_fps_to_24_fps_Pulldown_None"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:30_fps_to_24_fps_Pulldown_None" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "30_fps_to_24_fps_Pulldown_None"
+Randomness seeded to: 1435180225
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.37 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:30_fps_to_24_fps_Pulldown_None" end time: May 23 12:25 GMT Daylight Time
+"FrameMapper:30_fps_to_24_fps_Pulldown_None" time elapsed: 00:00:05
+----------------------------------------------------------
+
+94/193 Testing: FrameMapper:resample_audio_48000_to_41000
+94/193 Test: FrameMapper:resample_audio_48000_to_41000
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "resample_audio_48000_to_41000"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:resample_audio_48000_to_41000" start time: May 23 12:25 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "resample_audio_48000_to_41000"
+Randomness seeded to: 3359630095
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+openshot-FrameMapper-test.exe is a Catch2 v3.8.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+resample_audio_48000_to_41000
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/FrameMapper.cpp:175
+...............................................................................
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:187: FAILED:
+  CHECK( map.GetFrame(1)->GetAudioChannelsCount() == 3 )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:188: FAILED:
+  CHECK( map.GetFrame(1)->GetAudioSamplesCount() == 1470 )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:189: FAILED:
+  CHECK( map.GetFrame(2)->GetAudioSamplesCount() == 1470 )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+[SWR @ 00000231fd389680] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000231fd389680] Context has not been initialized
+[SWR @ 00000231fd389680] Context has not been initialized
+[SWR @ 00000231fd3a3240] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000231fd3a3240] Context has not been initialized
+
+(process:10044): GLib-GIO-WARNING **: 12:26:05.668: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+C:/shared/libopenshot/tests/FrameMapper.cpp:190: FAILED:
+  CHECK( map.GetFrame(50)->GetAudioSamplesCount() == 1470 )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:197: FAILED:
+  CHECK( map.GetFrame(1)->GetAudioChannelsCount() == 1 )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:198: FAILED:
+  CHECK( map.GetFrame(1)->GetAudioSamplesCount() == Approx(882).margin(10.0) )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:199: FAILED:
+  CHECK( map.GetFrame(2)->GetAudioSamplesCount() == Approx(882).margin(10.0) )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:200: FAILED:
+  CHECK( map.GetFrame(50)->GetAudioSamplesCount() == Approx(882).margin(10.0) )
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+===============================================================================
+test cases:  1 | 1 failed
+assertions: 10 | 2 passed | 8 failed
+
+[SWR @ 00000231fd3a3240] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000231fd3a3240] Context has not been initialized
+[SWR @ 00000231fbed9600] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000231fbed9600] Context has not been initialized
+[SWR @ 00000231fbed9600] Context has not been initialized
+[SWR @ 00000231fc471ec0] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000231fc471ec0] Context has not been initialized
+[SWR @ 00000231fba6eb80] Input channel layout "" is invalid or unsupported.
+[SWR @ 00000231fba6eb80] Context has not been initialized
+<end of output>
+Test time =  10.30 sec
+----------------------------------------------------------
+Test Failed.
+"FrameMapper:resample_audio_48000_to_41000" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:resample_audio_48000_to_41000" time elapsed: 00:00:10
+----------------------------------------------------------
+
+95/193 Testing: FrameMapper:resample_audio_mapper
+95/193 Test: FrameMapper:resample_audio_mapper
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "resample_audio_mapper"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:resample_audio_mapper" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "resample_audio_mapper"
+Randomness seeded to: 4008092776
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+openshot-FrameMapper-test.exe is a Catch2 v3.8.1 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+resample_audio_mapper
+-------------------------------------------------------------------------------
+C:/shared/libopenshot/tests/FrameMapper.cpp:207
+...............................................................................
+
+C:/shared/libopenshot/tests/FrameMapper.cpp:207: FAILED:
+  {Unknown expression after the reported line}
+due to unexpected exception with message:
+  std::bad_array_new_length
+
+===============================================================================
+test cases:     1 |     0 passed | 1 failed
+assertions: 86364 | 86363 passed | 1 failed
+
+[SWR @ 0000021c7dd03140] Input channel layout "" is invalid or unsupported.
+[SWR @ 0000021c7dd03140] Context has not been initialized
+<end of output>
+Test time =   8.63 sec
+----------------------------------------------------------
+Test Failed.
+"FrameMapper:resample_audio_mapper" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:resample_audio_mapper" time elapsed: 00:00:08
+----------------------------------------------------------
+
+96/193 Testing: FrameMapper:redistribute_samples_per_frame
+96/193 Test: FrameMapper:redistribute_samples_per_frame
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "redistribute_samples_per_frame"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:redistribute_samples_per_frame" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:3988): GLib-GIO-WARNING **: 12:26:28.173: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "redistribute_samples_per_frame"
+Randomness seeded to: 4233395705
+===============================================================================
+All tests passed (221239 assertions in 1 test case)
+
+<end of output>
+Test time =  11.06 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:redistribute_samples_per_frame" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:redistribute_samples_per_frame" time elapsed: 00:00:11
+----------------------------------------------------------
+
+97/193 Testing: FrameMapper:Distribute samples
+97/193 Test: FrameMapper:Distribute samples
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "Distribute samples"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:Distribute samples" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:7300): GLib-GIO-WARNING **: 12:26:34.806: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Distribute samples"
+Randomness seeded to: 3637299385
+===============================================================================
+All tests passed (1539608 assertions in 1 test case)
+
+<end of output>
+Test time =   8.84 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:Distribute samples" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:Distribute samples" time elapsed: 00:00:08
+----------------------------------------------------------
+
+98/193 Testing: FrameMapper:PrintMapping
+98/193 Test: FrameMapper:PrintMapping
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "PrintMapping"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:PrintMapping" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PrintMapping"
+Randomness seeded to: 3540525535
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.90 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:PrintMapping" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:PrintMapping" time elapsed: 00:00:05
+----------------------------------------------------------
+
+99/193 Testing: FrameMapper:Json
+99/193 Test: FrameMapper:Json
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "Json"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:Json" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Json"
+Randomness seeded to: 2266081937
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.62 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:Json" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:Json" time elapsed: 00:00:05
+----------------------------------------------------------
+
+100/193 Testing: FrameMapper:SampleRange
+100/193 Test: FrameMapper:SampleRange
+Command: "C:/shared/libopenshot/build/tests/openshot-FrameMapper-test.exe" "SampleRange"
+Directory: C:/shared/libopenshot/build/tests
+"FrameMapper:SampleRange" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SampleRange"
+Randomness seeded to: 1791106621
+===============================================================================
+All tests passed (49 assertions in 1 test case)
+
+<end of output>
+Test time =   6.16 sec
+----------------------------------------------------------
+Test Passed.
+"FrameMapper:SampleRange" end time: May 23 12:26 GMT Daylight Time
+"FrameMapper:SampleRange" time elapsed: 00:00:06
+----------------------------------------------------------
+
+101/193 Testing: KeyFrame:GetPoint (no Points)
+101/193 Test: KeyFrame:GetPoint (no Points)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetPoint (no Points)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetPoint (no Points)" start time: May 23 12:26 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetPoint (no Points)"
+Randomness seeded to: 1298954982
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.15 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetPoint (no Points)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetPoint (no Points)" time elapsed: 00:00:06
+----------------------------------------------------------
+
+102/193 Testing: KeyFrame:GetPoint (1 Point)
+102/193 Test: KeyFrame:GetPoint (1 Point)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetPoint (1 Point)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetPoint (1 Point)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetPoint (1 Point)"
+Randomness seeded to: 3944738710
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.64 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetPoint (1 Point)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetPoint (1 Point)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+103/193 Testing: KeyFrame:AddPoint (1 Point)
+103/193 Test: KeyFrame:AddPoint (1 Point)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "AddPoint (1 Point)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:AddPoint (1 Point)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AddPoint (1 Point)"
+Randomness seeded to: 3661744392
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.19 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:AddPoint (1 Point)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:AddPoint (1 Point)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+104/193 Testing: KeyFrame:AddPoint (2 Points)
+104/193 Test: KeyFrame:AddPoint (2 Points)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "AddPoint (2 Points)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:AddPoint (2 Points)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AddPoint (2 Points)"
+Randomness seeded to: 1836700575
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.16 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:AddPoint (2 Points)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:AddPoint (2 Points)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+105/193 Testing: KeyFrame:GetValue (Bezier curve, 2 Points)
+105/193 Test: KeyFrame:GetValue (Bezier curve, 2 Points)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetValue (Bezier curve\, 2 Points)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetValue (Bezier curve, 2 Points)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetValue (Bezier curve\, 2 Points)"
+Randomness seeded to: 818366330
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   6.45 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetValue (Bezier curve, 2 Points)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetValue (Bezier curve, 2 Points)" time elapsed: 00:00:06
+----------------------------------------------------------
+
+106/193 Testing: KeyFrame:GetValue (Bezier, 5 Points, 40% handle)
+106/193 Test: KeyFrame:GetValue (Bezier, 5 Points, 40% handle)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetValue (Bezier\, 5 Points\, 40% handle)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetValue (Bezier, 5 Points, 40% handle)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetValue (Bezier\, 5 Points\, 40% handle)"
+Randomness seeded to: 1465397721
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   5.25 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetValue (Bezier, 5 Points, 40% handle)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetValue (Bezier, 5 Points, 40% handle)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+107/193 Testing: KeyFrame:GetValue (Bezier, 5 Points, 25% Handle)
+107/193 Test: KeyFrame:GetValue (Bezier, 5 Points, 25% Handle)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetValue (Bezier\, 5 Points\, 25% Handle)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetValue (Bezier, 5 Points, 25% Handle)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetValue (Bezier\, 5 Points\, 25% Handle)"
+Randomness seeded to: 2193541925
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   5.65 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetValue (Bezier, 5 Points, 25% Handle)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetValue (Bezier, 5 Points, 25% Handle)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+108/193 Testing: KeyFrame:GetValue (Linear, 3 Points)
+108/193 Test: KeyFrame:GetValue (Linear, 3 Points)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetValue (Linear\, 3 Points)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetValue (Linear, 3 Points)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetValue (Linear\, 3 Points)"
+Randomness seeded to: 1043949882
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   5.56 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetValue (Linear, 3 Points)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetValue (Linear, 3 Points)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+109/193 Testing: KeyFrame:GetValue (Constant, 3 Points)
+109/193 Test: KeyFrame:GetValue (Constant, 3 Points)
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetValue (Constant\, 3 Points)"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetValue (Constant, 3 Points)" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetValue (Constant\, 3 Points)"
+Randomness seeded to: 3052115052
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   5.57 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetValue (Constant, 3 Points)" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetValue (Constant, 3 Points)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+110/193 Testing: KeyFrame:GetDelta
+110/193 Test: KeyFrame:GetDelta
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetDelta"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetDelta" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetDelta"
+Randomness seeded to: 148100972
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   5.85 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetDelta" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetDelta" time elapsed: 00:00:05
+----------------------------------------------------------
+
+111/193 Testing: KeyFrame:GetClosestPoint
+111/193 Test: KeyFrame:GetClosestPoint
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetClosestPoint"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetClosestPoint" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetClosestPoint"
+Randomness seeded to: 189180579
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   5.65 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetClosestPoint" end time: May 23 12:27 GMT Daylight Time
+"KeyFrame:GetClosestPoint" time elapsed: 00:00:05
+----------------------------------------------------------
+
+112/193 Testing: KeyFrame:GetPreviousPoint
+112/193 Test: KeyFrame:GetPreviousPoint
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetPreviousPoint"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetPreviousPoint" start time: May 23 12:27 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetPreviousPoint"
+Randomness seeded to: 1450702445
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.72 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetPreviousPoint" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:GetPreviousPoint" time elapsed: 00:00:05
+----------------------------------------------------------
+
+113/193 Testing: KeyFrame:GetMaxPoint
+113/193 Test: KeyFrame:GetMaxPoint
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetMaxPoint"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetMaxPoint" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetMaxPoint"
+Randomness seeded to: 1498059644
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.44 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetMaxPoint" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:GetMaxPoint" time elapsed: 00:00:05
+----------------------------------------------------------
+
+114/193 Testing: KeyFrame:Keyframe scaling
+114/193 Test: KeyFrame:Keyframe scaling
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "Keyframe scaling"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:Keyframe scaling" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Keyframe scaling"
+Randomness seeded to: 1572802916
+===============================================================================
+All tests passed (20 assertions in 1 test case)
+
+<end of output>
+Test time =   5.24 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:Keyframe scaling" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:Keyframe scaling" time elapsed: 00:00:05
+----------------------------------------------------------
+
+115/193 Testing: KeyFrame:flip Keyframe
+115/193 Test: KeyFrame:flip Keyframe
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "flip Keyframe"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:flip Keyframe" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "flip Keyframe"
+Randomness seeded to: 2467028369
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   6.01 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:flip Keyframe" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:flip Keyframe" time elapsed: 00:00:06
+----------------------------------------------------------
+
+116/193 Testing: KeyFrame:remove duplicate Point
+116/193 Test: KeyFrame:remove duplicate Point
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "remove duplicate Point"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:remove duplicate Point" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "remove duplicate Point"
+Randomness seeded to: 565238510
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.50 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:remove duplicate Point" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:remove duplicate Point" time elapsed: 00:00:05
+----------------------------------------------------------
+
+117/193 Testing: KeyFrame:large number values
+117/193 Test: KeyFrame:large number values
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "large number values"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:large number values" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "large number values"
+Randomness seeded to: 2164039796
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.54 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:large number values" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:large number values" time elapsed: 00:00:05
+----------------------------------------------------------
+
+118/193 Testing: KeyFrame:remove Point
+118/193 Test: KeyFrame:remove Point
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "remove Point"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:remove Point" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "remove Point"
+Randomness seeded to: 38926237
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.71 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:remove Point" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:remove Point" time elapsed: 00:00:05
+----------------------------------------------------------
+
+119/193 Testing: KeyFrame:Constant interp, first segment
+119/193 Test: KeyFrame:Constant interp, first segment
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "Constant interp\, first segment"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:Constant interp, first segment" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Constant interp\, first segment"
+Randomness seeded to: 3188081229
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.90 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:Constant interp, first segment" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:Constant interp, first segment" time elapsed: 00:00:05
+----------------------------------------------------------
+
+120/193 Testing: KeyFrame:IsIncreasing
+120/193 Test: KeyFrame:IsIncreasing
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "IsIncreasing"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:IsIncreasing" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "IsIncreasing"
+Randomness seeded to: 1945047594
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.24 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:IsIncreasing" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:IsIncreasing" time elapsed: 00:00:05
+----------------------------------------------------------
+
+121/193 Testing: KeyFrame:GetLength
+121/193 Test: KeyFrame:GetLength
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetLength"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetLength" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetLength"
+Randomness seeded to: 874346609
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   5.55 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetLength" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:GetLength" time elapsed: 00:00:05
+----------------------------------------------------------
+
+122/193 Testing: KeyFrame:use segment end point interpolation
+122/193 Test: KeyFrame:use segment end point interpolation
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "use segment end point interpolation"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:use segment end point interpolation" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "use segment end point interpolation"
+Randomness seeded to: 242926374
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.43 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:use segment end point interpolation" end time: May 23 12:28 GMT Daylight Time
+"KeyFrame:use segment end point interpolation" time elapsed: 00:00:05
+----------------------------------------------------------
+
+123/193 Testing: KeyFrame:handle large segment
+123/193 Test: KeyFrame:handle large segment
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "handle large segment"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:handle large segment" start time: May 23 12:28 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "handle large segment"
+Randomness seeded to: 3751899108
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.77 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:handle large segment" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:handle large segment" time elapsed: 00:00:05
+----------------------------------------------------------
+
+124/193 Testing: KeyFrame:std::vector<Point> constructor
+124/193 Test: KeyFrame:std::vector<Point> constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "std::vector<Point> constructor"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:std::vector<Point> constructor" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "std::vector<Point> constructor"
+Randomness seeded to: 2618966603
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.50 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:std::vector<Point> constructor" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:std::vector<Point> constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+125/193 Testing: KeyFrame:PrintPoints
+125/193 Test: KeyFrame:PrintPoints
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "PrintPoints"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:PrintPoints" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PrintPoints"
+Randomness seeded to: 1301303243
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.46 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:PrintPoints" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:PrintPoints" time elapsed: 00:00:05
+----------------------------------------------------------
+
+126/193 Testing: KeyFrame:PrintValues
+126/193 Test: KeyFrame:PrintValues
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "PrintValues"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:PrintValues" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PrintValues"
+Randomness seeded to: 1322314905
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.50 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:PrintValues" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:PrintValues" time elapsed: 00:00:05
+----------------------------------------------------------
+
+127/193 Testing: KeyFrame:TrackedObjectBBox init
+127/193 Test: KeyFrame:TrackedObjectBBox init
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "TrackedObjectBBox init"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:TrackedObjectBBox init" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TrackedObjectBBox init"
+Randomness seeded to: 2138276145
+===============================================================================
+All tests passed (17 assertions in 1 test case)
+
+<end of output>
+Test time =   6.23 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:TrackedObjectBBox init" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:TrackedObjectBBox init" time elapsed: 00:00:06
+----------------------------------------------------------
+
+128/193 Testing: KeyFrame:TrackedObjectBBox AddBox and RemoveBox
+128/193 Test: KeyFrame:TrackedObjectBBox AddBox and RemoveBox
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "TrackedObjectBBox AddBox and RemoveBox"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:TrackedObjectBBox AddBox and RemoveBox" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TrackedObjectBBox AddBox and RemoveBox"
+Randomness seeded to: 881844785
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.06 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:TrackedObjectBBox AddBox and RemoveBox" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:TrackedObjectBBox AddBox and RemoveBox" time elapsed: 00:00:06
+----------------------------------------------------------
+
+129/193 Testing: KeyFrame:TrackedObjectBBox GetVal
+129/193 Test: KeyFrame:TrackedObjectBBox GetVal
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "TrackedObjectBBox GetVal"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:TrackedObjectBBox GetVal" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TrackedObjectBBox GetVal"
+Randomness seeded to: 1489788931
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.24 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:TrackedObjectBBox GetVal" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:TrackedObjectBBox GetVal" time elapsed: 00:00:05
+----------------------------------------------------------
+
+130/193 Testing: KeyFrame:TrackedObjectBBox GetVal interpolation
+130/193 Test: KeyFrame:TrackedObjectBBox GetVal interpolation
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "TrackedObjectBBox GetVal interpolation"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:TrackedObjectBBox GetVal interpolation" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TrackedObjectBBox GetVal interpolation"
+Randomness seeded to: 2091754879
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   6.31 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:TrackedObjectBBox GetVal interpolation" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:TrackedObjectBBox GetVal interpolation" time elapsed: 00:00:06
+----------------------------------------------------------
+
+131/193 Testing: KeyFrame:TrackedObjectBBox SetJson
+131/193 Test: KeyFrame:TrackedObjectBBox SetJson
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "TrackedObjectBBox SetJson"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:TrackedObjectBBox SetJson" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TrackedObjectBBox SetJson"
+Randomness seeded to: 2786602557
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   6.48 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:TrackedObjectBBox SetJson" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:TrackedObjectBBox SetJson" time elapsed: 00:00:06
+----------------------------------------------------------
+
+132/193 Testing: KeyFrame:TrackedObjectBBox scaling
+132/193 Test: KeyFrame:TrackedObjectBBox scaling
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "TrackedObjectBBox scaling"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:TrackedObjectBBox scaling" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TrackedObjectBBox scaling"
+Randomness seeded to: 3131779575
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.08 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:TrackedObjectBBox scaling" end time: May 23 12:29 GMT Daylight Time
+"KeyFrame:TrackedObjectBBox scaling" time elapsed: 00:00:05
+----------------------------------------------------------
+
+133/193 Testing: KeyFrame:AttachToObject
+133/193 Test: KeyFrame:AttachToObject
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "AttachToObject"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:AttachToObject" start time: May 23 12:29 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AttachToObject"
+Randomness seeded to: 2907652352
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.62 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:AttachToObject" end time: May 23 12:30 GMT Daylight Time
+"KeyFrame:AttachToObject" time elapsed: 00:00:06
+----------------------------------------------------------
+
+134/193 Testing: KeyFrame:GetBoxValues
+134/193 Test: KeyFrame:GetBoxValues
+Command: "C:/shared/libopenshot/build/tests/openshot-KeyFrame-test.exe" "GetBoxValues"
+Directory: C:/shared/libopenshot/build/tests
+"KeyFrame:GetBoxValues" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetBoxValues"
+Randomness seeded to: 830392632
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.43 sec
+----------------------------------------------------------
+Test Passed.
+"KeyFrame:GetBoxValues" end time: May 23 12:30 GMT Daylight Time
+"KeyFrame:GetBoxValues" time elapsed: 00:00:05
+----------------------------------------------------------
+
+135/193 Testing: Point:default constructor
+135/193 Test: Point:default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Point:default constructor" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "default constructor"
+Randomness seeded to: 1339749649
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   5.29 sec
+----------------------------------------------------------
+Test Passed.
+"Point:default constructor" end time: May 23 12:30 GMT Daylight Time
+"Point:default constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+136/193 Testing: Point:x,y ctor
+136/193 Test: Point:x,y ctor
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "x\,y ctor"
+Directory: C:/shared/libopenshot/build/tests
+"Point:x,y ctor" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "x\,y ctor"
+Randomness seeded to: 3081458817
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.56 sec
+----------------------------------------------------------
+Test Passed.
+"Point:x,y ctor" end time: May 23 12:30 GMT Daylight Time
+"Point:x,y ctor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+137/193 Testing: Point:std::pair ctor
+137/193 Test: Point:std::pair ctor
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "std::pair ctor"
+Directory: C:/shared/libopenshot/build/tests
+"Point:std::pair ctor" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "std::pair ctor"
+Randomness seeded to: 2057735398
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.61 sec
+----------------------------------------------------------
+Test Passed.
+"Point:std::pair ctor" end time: May 23 12:30 GMT Daylight Time
+"Point:std::pair ctor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+138/193 Testing: Point:Coordinate ctor
+138/193 Test: Point:Coordinate ctor
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Coordinate ctor"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Coordinate ctor" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Coordinate ctor"
+Randomness seeded to: 1512562189
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.13 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Coordinate ctor" end time: May 23 12:30 GMT Daylight Time
+"Point:Coordinate ctor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+139/193 Testing: Point:Coordinate ctor, LINEAR
+139/193 Test: Point:Coordinate ctor, LINEAR
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Coordinate ctor\, LINEAR"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Coordinate ctor, LINEAR" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Coordinate ctor\, LINEAR"
+Randomness seeded to: 1219410234
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   8.15 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Coordinate ctor, LINEAR" end time: May 23 12:30 GMT Daylight Time
+"Point:Coordinate ctor, LINEAR" time elapsed: 00:00:08
+----------------------------------------------------------
+
+140/193 Testing: Point:Coordinate ctor, BEZIER
+140/193 Test: Point:Coordinate ctor, BEZIER
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Coordinate ctor\, BEZIER"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Coordinate ctor, BEZIER" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Coordinate ctor\, BEZIER"
+Randomness seeded to: 3293703636
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.00 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Coordinate ctor, BEZIER" end time: May 23 12:30 GMT Daylight Time
+"Point:Coordinate ctor, BEZIER" time elapsed: 00:00:05
+----------------------------------------------------------
+
+141/193 Testing: Point:Coordinate ctor, CONSTANT
+141/193 Test: Point:Coordinate ctor, CONSTANT
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Coordinate ctor\, CONSTANT"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Coordinate ctor, CONSTANT" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Coordinate ctor\, CONSTANT"
+Randomness seeded to: 1540388220
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   7.89 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Coordinate ctor, CONSTANT" end time: May 23 12:30 GMT Daylight Time
+"Point:Coordinate ctor, CONSTANT" time elapsed: 00:00:07
+----------------------------------------------------------
+
+142/193 Testing: Point:Coordinate ctor, BEZIER+AUTO
+142/193 Test: Point:Coordinate ctor, BEZIER+AUTO
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Coordinate ctor\, BEZIER+AUTO"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Coordinate ctor, BEZIER+AUTO" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Coordinate ctor\, BEZIER+AUTO"
+Randomness seeded to: 835526451
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.60 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Coordinate ctor, BEZIER+AUTO" end time: May 23 12:30 GMT Daylight Time
+"Point:Coordinate ctor, BEZIER+AUTO" time elapsed: 00:00:05
+----------------------------------------------------------
+
+143/193 Testing: Point:Coordinate ctor, BEZIER+MANUAL
+143/193 Test: Point:Coordinate ctor, BEZIER+MANUAL
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Coordinate ctor\, BEZIER+MANUAL"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Coordinate ctor, BEZIER+MANUAL" start time: May 23 12:30 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Coordinate ctor\, BEZIER+MANUAL"
+Randomness seeded to: 1514407556
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.78 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Coordinate ctor, BEZIER+MANUAL" end time: May 23 12:31 GMT Daylight Time
+"Point:Coordinate ctor, BEZIER+MANUAL" time elapsed: 00:00:05
+----------------------------------------------------------
+
+144/193 Testing: Point:Json
+144/193 Test: Point:Json
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Json"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Json" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Json"
+Randomness seeded to: 4068995703
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.87 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Json" end time: May 23 12:31 GMT Daylight Time
+"Point:Json" time elapsed: 00:00:05
+----------------------------------------------------------
+
+145/193 Testing: Point:SetJson
+145/193 Test: Point:SetJson
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "SetJson"
+Directory: C:/shared/libopenshot/build/tests
+"Point:SetJson" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SetJson"
+Randomness seeded to: 2825788035
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.90 sec
+----------------------------------------------------------
+Test Passed.
+"Point:SetJson" end time: May 23 12:31 GMT Daylight Time
+"Point:SetJson" time elapsed: 00:00:05
+----------------------------------------------------------
+
+146/193 Testing: Point:Operator ostream
+146/193 Test: Point:Operator ostream
+Command: "C:/shared/libopenshot/build/tests/openshot-Point-test.exe" "Operator ostream"
+Directory: C:/shared/libopenshot/build/tests
+"Point:Operator ostream" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Operator ostream"
+Randomness seeded to: 3831817419
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.76 sec
+----------------------------------------------------------
+Test Passed.
+"Point:Operator ostream" end time: May 23 12:31 GMT Daylight Time
+"Point:Operator ostream" time elapsed: 00:00:05
+----------------------------------------------------------
+
+147/193 Testing: Profiles:empty constructor
+147/193 Test: Profiles:empty constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Profiles-test.exe" "empty constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Profiles:empty constructor" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "empty constructor"
+Randomness seeded to: 4134591881
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   5.49 sec
+----------------------------------------------------------
+Test Passed.
+"Profiles:empty constructor" end time: May 23 12:31 GMT Daylight Time
+"Profiles:empty constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+148/193 Testing: Profiles:constructor with example profiles
+148/193 Test: Profiles:constructor with example profiles
+Command: "C:/shared/libopenshot/build/tests/openshot-Profiles-test.exe" "constructor with example profiles"
+Directory: C:/shared/libopenshot/build/tests
+"Profiles:constructor with example profiles" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "constructor with example profiles"
+Randomness seeded to: 3117031156
+===============================================================================
+All tests passed (30 assertions in 1 test case)
+
+<end of output>
+Test time =   5.44 sec
+----------------------------------------------------------
+Test Passed.
+"Profiles:constructor with example profiles" end time: May 23 12:31 GMT Daylight Time
+"Profiles:constructor with example profiles" time elapsed: 00:00:05
+----------------------------------------------------------
+
+149/193 Testing: Profiles:24 fps names
+149/193 Test: Profiles:24 fps names
+Command: "C:/shared/libopenshot/build/tests/openshot-Profiles-test.exe" "24 fps names"
+Directory: C:/shared/libopenshot/build/tests
+"Profiles:24 fps names" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "24 fps names"
+Randomness seeded to: 257207004
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.38 sec
+----------------------------------------------------------
+Test Passed.
+"Profiles:24 fps names" end time: May 23 12:31 GMT Daylight Time
+"Profiles:24 fps names" time elapsed: 00:00:05
+----------------------------------------------------------
+
+150/193 Testing: Profiles:29.97 fps names
+150/193 Test: Profiles:29.97 fps names
+Command: "C:/shared/libopenshot/build/tests/openshot-Profiles-test.exe" "29.97 fps names"
+Directory: C:/shared/libopenshot/build/tests
+"Profiles:29.97 fps names" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "29.97 fps names"
+Randomness seeded to: 1191800279
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   5.86 sec
+----------------------------------------------------------
+Test Passed.
+"Profiles:29.97 fps names" end time: May 23 12:31 GMT Daylight Time
+"Profiles:29.97 fps names" time elapsed: 00:00:05
+----------------------------------------------------------
+
+151/193 Testing: Profiles:compare profiles
+151/193 Test: Profiles:compare profiles
+Command: "C:/shared/libopenshot/build/tests/openshot-Profiles-test.exe" "compare profiles"
+Directory: C:/shared/libopenshot/build/tests
+"Profiles:compare profiles" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "compare profiles"
+Randomness seeded to: 763328179
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   6.29 sec
+----------------------------------------------------------
+Test Passed.
+"Profiles:compare profiles" end time: May 23 12:31 GMT Daylight Time
+"Profiles:compare profiles" time elapsed: 00:00:06
+----------------------------------------------------------
+
+152/193 Testing: Profiles:save profiles
+152/193 Test: Profiles:save profiles
+Command: "C:/shared/libopenshot/build/tests/openshot-Profiles-test.exe" "save profiles"
+Directory: C:/shared/libopenshot/build/tests
+"Profiles:save profiles" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "save profiles"
+Randomness seeded to: 1992029755
+C:/shared/libopenshot/examples/example_profile1_copy
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   6.30 sec
+----------------------------------------------------------
+Test Passed.
+"Profiles:save profiles" end time: May 23 12:31 GMT Daylight Time
+"Profiles:save profiles" time elapsed: 00:00:06
+----------------------------------------------------------
+
+153/193 Testing: QtImageReader:Default_Constructor
+153/193 Test: QtImageReader:Default_Constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-QtImageReader-test.exe" "Default_Constructor"
+Directory: C:/shared/libopenshot/build/tests
+"QtImageReader:Default_Constructor" start time: May 23 12:31 GMT Daylight Time
+Output:
+----------------------------------------------------------
+QFSFileEngine::open: No file name specified
+Filters: "Default_Constructor"
+Randomness seeded to: 2590686587
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.32 sec
+----------------------------------------------------------
+Test Passed.
+"QtImageReader:Default_Constructor" end time: May 23 12:32 GMT Daylight Time
+"QtImageReader:Default_Constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+154/193 Testing: QtImageReader:GetFrame_Before_Opening
+154/193 Test: QtImageReader:GetFrame_Before_Opening
+Command: "C:/shared/libopenshot/build/tests/openshot-QtImageReader-test.exe" "GetFrame_Before_Opening"
+Directory: C:/shared/libopenshot/build/tests
+"QtImageReader:GetFrame_Before_Opening" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetFrame_Before_Opening"
+Randomness seeded to: 2775818852
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.25 sec
+----------------------------------------------------------
+Test Passed.
+"QtImageReader:GetFrame_Before_Opening" end time: May 23 12:32 GMT Daylight Time
+"QtImageReader:GetFrame_Before_Opening" time elapsed: 00:00:06
+----------------------------------------------------------
+
+155/193 Testing: QtImageReader:Check_SVG_Loading
+155/193 Test: QtImageReader:Check_SVG_Loading
+Command: "C:/shared/libopenshot/build/tests/openshot-QtImageReader-test.exe" "Check_SVG_Loading"
+Directory: C:/shared/libopenshot/build/tests
+"QtImageReader:Check_SVG_Loading" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Check_SVG_Loading"
+Randomness seeded to: 2334984705
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.37 sec
+----------------------------------------------------------
+Test Passed.
+"QtImageReader:Check_SVG_Loading" end time: May 23 12:32 GMT Daylight Time
+"QtImageReader:Check_SVG_Loading" time elapsed: 00:00:06
+----------------------------------------------------------
+
+156/193 Testing: ReaderBase:derived class
+156/193 Test: ReaderBase:derived class
+Command: "C:/shared/libopenshot/build/tests/openshot-ReaderBase-test.exe" "derived class"
+Directory: C:/shared/libopenshot/build/tests
+"ReaderBase:derived class" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "derived class"
+Randomness seeded to: 376119653
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   6.03 sec
+----------------------------------------------------------
+Test Passed.
+"ReaderBase:derived class" end time: May 23 12:32 GMT Daylight Time
+"ReaderBase:derived class" time elapsed: 00:00:06
+----------------------------------------------------------
+
+157/193 Testing: Settings:Constructor
+157/193 Test: Settings:Constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Settings-test.exe" "Constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Settings:Constructor" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Constructor"
+Randomness seeded to: 2938802043
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   5.55 sec
+----------------------------------------------------------
+Test Passed.
+"Settings:Constructor" end time: May 23 12:32 GMT Daylight Time
+"Settings:Constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+158/193 Testing: Settings:Change settings
+158/193 Test: Settings:Change settings
+Command: "C:/shared/libopenshot/build/tests/openshot-Settings-test.exe" "Change settings"
+Directory: C:/shared/libopenshot/build/tests
+"Settings:Change settings" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Change settings"
+Randomness seeded to: 1823269354
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.27 sec
+----------------------------------------------------------
+Test Passed.
+"Settings:Change settings" end time: May 23 12:32 GMT Daylight Time
+"Settings:Change settings" time elapsed: 00:00:06
+----------------------------------------------------------
+
+159/193 Testing: Settings:Debug logging
+159/193 Test: Settings:Debug logging
+Command: "C:/shared/libopenshot/build/tests/openshot-Settings-test.exe" "Debug logging"
+Directory: C:/shared/libopenshot/build/tests
+"Settings:Debug logging" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Debug logging"
+Randomness seeded to: 2248374834
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.26 sec
+----------------------------------------------------------
+Test Passed.
+"Settings:Debug logging" end time: May 23 12:32 GMT Daylight Time
+"Settings:Debug logging" time elapsed: 00:00:06
+----------------------------------------------------------
+
+160/193 Testing: Timeline:constructor
+160/193 Test: Timeline:constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:constructor" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "constructor"
+Randomness seeded to: 2544783446
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.50 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:constructor" end time: May 23 12:32 GMT Daylight Time
+"Timeline:constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+161/193 Testing: Timeline:Set Json and clear clips
+161/193 Test: Timeline:Set Json and clear clips
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Set Json and clear clips"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Set Json and clear clips" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Set Json and clear clips"
+Randomness seeded to: 3037683579
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   5.39 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:Set Json and clear clips" end time: May 23 12:32 GMT Daylight Time
+"Timeline:Set Json and clear clips" time elapsed: 00:00:05
+----------------------------------------------------------
+
+162/193 Testing: Timeline:ReaderInfo constructor
+162/193 Test: Timeline:ReaderInfo constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "ReaderInfo constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:ReaderInfo constructor" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "ReaderInfo constructor"
+Randomness seeded to: 3232857066
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.76 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:ReaderInfo constructor" end time: May 23 12:32 GMT Daylight Time
+"Timeline:ReaderInfo constructor" time elapsed: 00:00:05
+----------------------------------------------------------
+
+163/193 Testing: Timeline:width and height functions
+163/193 Test: Timeline:width and height functions
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "width and height functions"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:width and height functions" start time: May 23 12:32 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "width and height functions"
+Randomness seeded to: 3136397786
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.09 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:width and height functions" end time: May 23 12:33 GMT Daylight Time
+"Timeline:width and height functions" time elapsed: 00:00:06
+----------------------------------------------------------
+
+164/193 Testing: Timeline:Framerate
+164/193 Test: Timeline:Framerate
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Framerate"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Framerate" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Framerate"
+Randomness seeded to: 835064569
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.20 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:Framerate" end time: May 23 12:33 GMT Daylight Time
+"Timeline:Framerate" time elapsed: 00:00:06
+----------------------------------------------------------
+
+165/193 Testing: Timeline:two-track video
+165/193 Test: Timeline:two-track video
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "two-track video"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:two-track video" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:10716): GLib-GIO-WARNING **: 12:33:16.579: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "two-track video"
+Randomness seeded to: 3960908793
+===============================================================================
+All tests passed (28 assertions in 1 test case)
+
+<end of output>
+Test time =   8.13 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:two-track video" end time: May 23 12:33 GMT Daylight Time
+"Timeline:two-track video" time elapsed: 00:00:08
+----------------------------------------------------------
+
+166/193 Testing: Timeline:Clip order
+166/193 Test: Timeline:Clip order
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Clip order"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Clip order" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Clip order"
+Randomness seeded to: 1473048921
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   5.91 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:Clip order" end time: May 23 12:33 GMT Daylight Time
+"Timeline:Clip order" time elapsed: 00:00:05
+----------------------------------------------------------
+
+167/193 Testing: Timeline:TimelineBase
+167/193 Test: Timeline:TimelineBase
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "TimelineBase"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:TimelineBase" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "TimelineBase"
+Randomness seeded to: 797669858
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   5.95 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:TimelineBase" end time: May 23 12:33 GMT Daylight Time
+"Timeline:TimelineBase" time elapsed: 00:00:05
+----------------------------------------------------------
+
+168/193 Testing: Timeline:Effect order
+168/193 Test: Timeline:Effect order
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Effect order"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Effect order" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Effect order"
+Randomness seeded to: 2223078309
+===============================================================================
+All tests passed (31 assertions in 1 test case)
+
+<end of output>
+Test time =   5.99 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:Effect order" end time: May 23 12:33 GMT Daylight Time
+"Timeline:Effect order" time elapsed: 00:00:05
+----------------------------------------------------------
+
+169/193 Testing: Timeline:GetClip by id
+169/193 Test: Timeline:GetClip by id
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "GetClip by id"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:GetClip by id" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetClip by id"
+Randomness seeded to: 4032938392
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   5.71 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:GetClip by id" end time: May 23 12:33 GMT Daylight Time
+"Timeline:GetClip by id" time elapsed: 00:00:05
+----------------------------------------------------------
+
+170/193 Testing: Timeline:GetClipEffect by id
+170/193 Test: Timeline:GetClipEffect by id
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "GetClipEffect by id"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:GetClipEffect by id" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetClipEffect by id"
+Randomness seeded to: 2764687847
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.28 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:GetClipEffect by id" end time: May 23 12:33 GMT Daylight Time
+"Timeline:GetClipEffect by id" time elapsed: 00:00:06
+----------------------------------------------------------
+
+171/193 Testing: Timeline:GetEffect by id
+171/193 Test: Timeline:GetEffect by id
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "GetEffect by id"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:GetEffect by id" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetEffect by id"
+Randomness seeded to: 3533967322
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.61 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:GetEffect by id" end time: May 23 12:33 GMT Daylight Time
+"Timeline:GetEffect by id" time elapsed: 00:00:06
+----------------------------------------------------------
+
+172/193 Testing: Timeline:Effect: Blur
+172/193 Test: Timeline:Effect: Blur
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Effect: Blur"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Effect: Blur" start time: May 23 12:33 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Effect: Blur"
+Randomness seeded to: 3049406059
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   6.59 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:Effect: Blur" end time: May 23 12:34 GMT Daylight Time
+"Timeline:Effect: Blur" time elapsed: 00:00:06
+----------------------------------------------------------
+
+173/193 Testing: Timeline:GetMaxFrame and GetMaxTime
+173/193 Test: Timeline:GetMaxFrame and GetMaxTime
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "GetMaxFrame and GetMaxTime"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:GetMaxFrame and GetMaxTime" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetMaxFrame and GetMaxTime"
+Randomness seeded to: 2926299695
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   6.52 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:GetMaxFrame and GetMaxTime" end time: May 23 12:34 GMT Daylight Time
+"Timeline:GetMaxFrame and GetMaxTime" time elapsed: 00:00:06
+----------------------------------------------------------
+
+174/193 Testing: Timeline:GetMinFrame and GetMinTime
+174/193 Test: Timeline:GetMinFrame and GetMinTime
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "GetMinFrame and GetMinTime"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:GetMinFrame and GetMinTime" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "GetMinFrame and GetMinTime"
+Randomness seeded to: 2139590484
+===============================================================================
+All tests passed (16 assertions in 1 test case)
+
+<end of output>
+Test time =   6.34 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:GetMinFrame and GetMinTime" end time: May 23 12:34 GMT Daylight Time
+"Timeline:GetMinFrame and GetMinTime" time elapsed: 00:00:06
+----------------------------------------------------------
+
+175/193 Testing: Timeline:Multi-threaded Timeline GetFrame
+175/193 Test: Timeline:Multi-threaded Timeline GetFrame
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Multi-threaded Timeline GetFrame"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Multi-threaded Timeline GetFrame" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:5780): GLib-GIO-WARNING **: 12:34:21.247: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Multi-threaded Timeline GetFrame"
+Randomness seeded to: 3526911638
+===============================================================================
+test cases: 1 | 1 passed
+assertions: - none -
+
+<end of output>
+Test time =  18.86 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:Multi-threaded Timeline GetFrame" end time: May 23 12:34 GMT Daylight Time
+"Timeline:Multi-threaded Timeline GetFrame" time elapsed: 00:00:18
+----------------------------------------------------------
+
+176/193 Testing: Timeline:Multi-threaded Timeline Add/Remove Clip
+176/193 Test: Timeline:Multi-threaded Timeline Add/Remove Clip
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "Multi-threaded Timeline Add/Remove Clip"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:Multi-threaded Timeline Add/Remove Clip" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Multi-threaded Timeline Add/Remove Clip"
+Randomness seeded to: 1260675656
+[SWR @ 000002127bddcfc0] Input channel layout "" is invalid or unsupported.
+[SWR @ 000002127bddcfc0] Context has not been initialized
+terminate called after throwing an instance of 'std::bad_array_new_length'
+  what():  std::bad_array_new_length
+<end of output>
+Test time =   6.27 sec
+----------------------------------------------------------
+Test Failed.
+"Timeline:Multi-threaded Timeline Add/Remove Clip" end time: May 23 12:34 GMT Daylight Time
+"Timeline:Multi-threaded Timeline Add/Remove Clip" time elapsed: 00:00:06
+----------------------------------------------------------
+
+177/193 Testing: Timeline:ApplyJSONDiff and FrameMappers
+177/193 Test: Timeline:ApplyJSONDiff and FrameMappers
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "ApplyJSONDiff and FrameMappers"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:ApplyJSONDiff and FrameMappers" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "ApplyJSONDiff and FrameMappers"
+Randomness seeded to: 3879742880
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.88 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:ApplyJSONDiff and FrameMappers" end time: May 23 12:34 GMT Daylight Time
+"Timeline:ApplyJSONDiff and FrameMappers" time elapsed: 00:00:05
+----------------------------------------------------------
+
+178/193 Testing: Timeline:ApplyJSONDiff Update Reader Info
+178/193 Test: Timeline:ApplyJSONDiff Update Reader Info
+Command: "C:/shared/libopenshot/build/tests/openshot-Timeline-test.exe" "ApplyJSONDiff Update Reader Info"
+Directory: C:/shared/libopenshot/build/tests
+"Timeline:ApplyJSONDiff Update Reader Info" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "ApplyJSONDiff Update Reader Info"
+Randomness seeded to: 165737718
+===============================================================================
+All tests passed (23 assertions in 1 test case)
+
+<end of output>
+Test time =   5.98 sec
+----------------------------------------------------------
+Test Passed.
+"Timeline:ApplyJSONDiff Update Reader Info" end time: May 23 12:34 GMT Daylight Time
+"Timeline:ApplyJSONDiff Update Reader Info" time elapsed: 00:00:05
+----------------------------------------------------------
+
+179/193 Testing: ChromaKey:basic keying
+179/193 Test: ChromaKey:basic keying
+Command: "C:/shared/libopenshot/build/tests/openshot-ChromaKey-test.exe" "basic keying"
+Directory: C:/shared/libopenshot/build/tests
+"ChromaKey:basic keying" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "basic keying"
+Randomness seeded to: 2033757654
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   6.25 sec
+----------------------------------------------------------
+Test Passed.
+"ChromaKey:basic keying" end time: May 23 12:34 GMT Daylight Time
+"ChromaKey:basic keying" time elapsed: 00:00:06
+----------------------------------------------------------
+
+180/193 Testing: ChromaKey:threshold
+180/193 Test: ChromaKey:threshold
+Command: "C:/shared/libopenshot/build/tests/openshot-ChromaKey-test.exe" "threshold"
+Directory: C:/shared/libopenshot/build/tests
+"ChromaKey:threshold" start time: May 23 12:34 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "threshold"
+Randomness seeded to: 1099341766
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.23 sec
+----------------------------------------------------------
+Test Passed.
+"ChromaKey:threshold" end time: May 23 12:35 GMT Daylight Time
+"ChromaKey:threshold" time elapsed: 00:00:05
+----------------------------------------------------------
+
+181/193 Testing: Crop:default constructor
+181/193 Test: Crop:default constructor
+Command: "C:/shared/libopenshot/build/tests/openshot-Crop-test.exe" "default constructor"
+Directory: C:/shared/libopenshot/build/tests
+"Crop:default constructor" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "default constructor"
+Randomness seeded to: 3621459746
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   6.14 sec
+----------------------------------------------------------
+Test Passed.
+"Crop:default constructor" end time: May 23 12:35 GMT Daylight Time
+"Crop:default constructor" time elapsed: 00:00:06
+----------------------------------------------------------
+
+182/193 Testing: Crop:basic cropping
+182/193 Test: Crop:basic cropping
+Command: "C:/shared/libopenshot/build/tests/openshot-Crop-test.exe" "basic cropping"
+Directory: C:/shared/libopenshot/build/tests
+"Crop:basic cropping" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "basic cropping"
+Randomness seeded to: 189161875
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   5.53 sec
+----------------------------------------------------------
+Test Passed.
+"Crop:basic cropping" end time: May 23 12:35 GMT Daylight Time
+"Crop:basic cropping" time elapsed: 00:00:05
+----------------------------------------------------------
+
+183/193 Testing: Crop:region collapsing
+183/193 Test: Crop:region collapsing
+Command: "C:/shared/libopenshot/build/tests/openshot-Crop-test.exe" "region collapsing"
+Directory: C:/shared/libopenshot/build/tests
+"Crop:region collapsing" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "region collapsing"
+Randomness seeded to: 236704826
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.99 sec
+----------------------------------------------------------
+Test Passed.
+"Crop:region collapsing" end time: May 23 12:35 GMT Daylight Time
+"Crop:region collapsing" time elapsed: 00:00:05
+----------------------------------------------------------
+
+184/193 Testing: Crop:x/y offsets
+184/193 Test: Crop:x/y offsets
+Command: "C:/shared/libopenshot/build/tests/openshot-Crop-test.exe" "x/y offsets"
+Directory: C:/shared/libopenshot/build/tests
+"Crop:x/y offsets" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "x/y offsets"
+Randomness seeded to: 1521976725
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   6.10 sec
+----------------------------------------------------------
+Test Passed.
+"Crop:x/y offsets" end time: May 23 12:35 GMT Daylight Time
+"Crop:x/y offsets" time elapsed: 00:00:06
+----------------------------------------------------------
+
+185/193 Testing: ImageWriter:conversions
+185/193 Test: ImageWriter:conversions
+Command: "C:/shared/libopenshot/build/tests/openshot-ImageWriter-test.exe" "conversions"
+Directory: C:/shared/libopenshot/build/tests
+"ImageWriter:conversions" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "conversions"
+Randomness seeded to: 2930086770
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   6.11 sec
+----------------------------------------------------------
+Test Passed.
+"ImageWriter:conversions" end time: May 23 12:35 GMT Daylight Time
+"ImageWriter:conversions" time elapsed: 00:00:06
+----------------------------------------------------------
+
+186/193 Testing: ImageWriter:Gif
+186/193 Test: ImageWriter:Gif
+Command: "C:/shared/libopenshot/build/tests/openshot-ImageWriter-test.exe" "Gif"
+Directory: C:/shared/libopenshot/build/tests
+"ImageWriter:Gif" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:10476): GLib-GIO-WARNING **: 12:35:39.867: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Gif"
+Randomness seeded to: 1920251124
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =  12.09 sec
+----------------------------------------------------------
+Test Passed.
+"ImageWriter:Gif" end time: May 23 12:35 GMT Daylight Time
+"ImageWriter:Gif" time elapsed: 00:00:12
+----------------------------------------------------------
+
+187/193 Testing: CVTracker:initialization
+187/193 Test: CVTracker:initialization
+Command: "C:/shared/libopenshot/build/tests/openshot-CVTracker-test.exe" "initialization"
+Directory: C:/shared/libopenshot/build/tests
+"CVTracker:initialization" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "initialization"
+Randomness seeded to: 2693975523
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   5.35 sec
+----------------------------------------------------------
+Test Passed.
+"CVTracker:initialization" end time: May 23 12:35 GMT Daylight Time
+"CVTracker:initialization" time elapsed: 00:00:05
+----------------------------------------------------------
+
+188/193 Testing: CVTracker:Track_Video
+188/193 Test: CVTracker:Track_Video
+Command: "C:/shared/libopenshot/build/tests/openshot-CVTracker-test.exe" "Track_Video"
+Directory: C:/shared/libopenshot/build/tests
+"CVTracker:Track_Video" start time: May 23 12:35 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:10552): GLib-GIO-WARNING **: 12:35:57.270: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Track_Video"
+Randomness seeded to: 2250490719
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =  17.67 sec
+----------------------------------------------------------
+Test Passed.
+"CVTracker:Track_Video" end time: May 23 12:36 GMT Daylight Time
+"CVTracker:Track_Video" time elapsed: 00:00:17
+----------------------------------------------------------
+
+189/193 Testing: CVTracker:SaveLoad_Protobuf
+189/193 Test: CVTracker:SaveLoad_Protobuf
+Command: "C:/shared/libopenshot/build/tests/openshot-CVTracker-test.exe" "SaveLoad_Protobuf"
+Directory: C:/shared/libopenshot/build/tests
+"CVTracker:SaveLoad_Protobuf" start time: May 23 12:36 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:7036): GLib-GIO-WARNING **: 12:36:14.868: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "SaveLoad_Protobuf"
+Randomness seeded to: 2050333576
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =  61.56 sec
+----------------------------------------------------------
+Test Passed.
+"CVTracker:SaveLoad_Protobuf" end time: May 23 12:37 GMT Daylight Time
+"CVTracker:SaveLoad_Protobuf" time elapsed: 00:01:01
+----------------------------------------------------------
+
+190/193 Testing: CVStabilizer:Stabilize_Video
+190/193 Test: CVStabilizer:Stabilize_Video
+Command: "C:/shared/libopenshot/build/tests/openshot-CVStabilizer-test.exe" "Stabilize_Video"
+Directory: C:/shared/libopenshot/build/tests
+"CVStabilizer:Stabilize_Video" start time: May 23 12:37 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:7148): GLib-GIO-WARNING **: 12:37:16.502: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "Stabilize_Video"
+Randomness seeded to: 1686597694
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   6.88 sec
+----------------------------------------------------------
+Test Passed.
+"CVStabilizer:Stabilize_Video" end time: May 23 12:37 GMT Daylight Time
+"CVStabilizer:Stabilize_Video" time elapsed: 00:00:06
+----------------------------------------------------------
+
+191/193 Testing: CVStabilizer:SaveLoad_Protobuf
+191/193 Test: CVStabilizer:SaveLoad_Protobuf
+Command: "C:/shared/libopenshot/build/tests/openshot-CVStabilizer-test.exe" "SaveLoad_Protobuf"
+Directory: C:/shared/libopenshot/build/tests
+"CVStabilizer:SaveLoad_Protobuf" start time: May 23 12:37 GMT Daylight Time
+Output:
+----------------------------------------------------------
+
+(process:5252): GLib-GIO-WARNING **: 12:37:23.650: Failed to open application manifest `C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe\AppxManifest.xml' for package #16 (`Microsoft.UI.Xaml.2.7_7.2203.17001.0_x64__8wekyb3d8bbwe'): error code 0x2
+Filters: "SaveLoad_Protobuf"
+Randomness seeded to: 3645973318
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   7.08 sec
+----------------------------------------------------------
+Test Passed.
+"CVStabilizer:SaveLoad_Protobuf" end time: May 23 12:37 GMT Daylight Time
+"CVStabilizer:SaveLoad_Protobuf" time elapsed: 00:00:07
+----------------------------------------------------------
+
+192/193 Testing: CVOutline:Outline_Tests
+192/193 Test: CVOutline:Outline_Tests
+Command: "C:/shared/libopenshot/build/tests/openshot-CVOutline-test.exe" "Outline_Tests"
+Directory: C:/shared/libopenshot/build/tests
+"CVOutline:Outline_Tests" start time: May 23 12:37 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Outline_Tests"
+Randomness seeded to: 3986679015
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   6.29 sec
+----------------------------------------------------------
+Test Passed.
+"CVOutline:Outline_Tests" end time: May 23 12:37 GMT Daylight Time
+"CVOutline:Outline_Tests" time elapsed: 00:00:06
+----------------------------------------------------------
+
+193/193 Testing: Settings:Debug logging(enabled)
+193/193 Test: Settings:Debug logging(enabled)
+Command: "C:/shared/libopenshot/build/tests/openshot-Settings-test.exe" "Debug logging"
+Directory: C:/shared/libopenshot/build/tests
+"Settings:Debug logging(enabled)" start time: May 23 12:37 GMT Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Debug logging"
+Randomness seeded to: 1255055468
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   5.97 sec
+----------------------------------------------------------
+Test Passed.
+"Settings:Debug logging(enabled)" end time: May 23 12:37 GMT Daylight Time
+"Settings:Debug logging(enabled)" time elapsed: 00:00:05
+----------------------------------------------------------
+
+End testing: May 23 12:37 GMT Daylight Time
+
+AudioDeviceManager =   8.23 sec*proc
+
+AudioWaveformer =  39.08 sec*proc
+
+CVOutline =   6.29 sec*proc
+
+CVStabilizer =  13.96 sec*proc
+
+CVTracker =  84.58 sec*proc
+
+CacheDisk =  37.07 sec*proc
+
+CacheMemory =  68.41 sec*proc
+
+Caption =  10.97 sec*proc
+
+ChromaKey =  11.49 sec*proc
+
+Clip =  70.56 sec*proc
+
+Color =  61.27 sec*proc
+
+Coordinate =  28.28 sec*proc
+
+Crop =  23.77 sec*proc
+
+DummyReader =  34.57 sec*proc
+
+FFmpegReader =  72.50 sec*proc
+
+FFmpegWriter =  28.17 sec*proc
+
+Fraction =  51.40 sec*proc
+
+Frame =  30.36 sec*proc
+
+FrameMapper = 106.39 sec*proc
+
+ImageWriter =  18.20 sec*proc
+
+KeyFrame = 193.06 sec*proc
+
+Point =  73.54 sec*proc
+
+Profiles =  34.77 sec*proc
+
+QtImageReader =  18.94 sec*proc
+
+ReaderBase =   6.03 sec*proc
+
+Settings =  24.05 sec*proc
+
+Timeline = 130.97 sec*proc
+
