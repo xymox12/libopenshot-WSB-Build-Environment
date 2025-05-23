@@ -1,0 +1,10 @@
+shared/*.exe
+shared/*.msi
+shared/Windows_Kits
+shared/*.iso
+shared/unittest-cpp
+shared/resvg
+shared/asiosdk*
+shared/libopenshot
+shared/libopenshot-audio
+

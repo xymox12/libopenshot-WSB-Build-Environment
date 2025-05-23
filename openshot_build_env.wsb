@@ -1,0 +1,14 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Sandbox\OpenShotSandbox\shared</HostFolder>
+      <SandboxFolder>C:\shared</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <Networking>Enable</Networking>
+  <VGpu>Enable</VGpu>
+  <LogonCommand>
+    <Command>powershell.exe -ExecutionPolicy Bypass -Command "Start-Process powershell -ArgumentList '-NoExit -File C:\shared\int_build_env.ps1'"</Command>
+  </LogonCommand>
+</Configuration>
