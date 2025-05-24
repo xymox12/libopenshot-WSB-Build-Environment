@@ -51,7 +51,7 @@ Note: Many of the optional packages are included. Ruby (optional) has been remov
 	```
 9. Resvg: we need to revert to a version with the capi folder:
     -  git reset --hard v0.9.1
-	-  A error happens if we do not include <QPainterPath> in bindings/resvg-qt/cpp/qt_capi.cpp
+	-  A error happens if we do not include QPainterPath in bindings/resvg-qt/cpp/qt_capi.cpp
 		```
 		diff --git a/bindings/resvg-qt/cpp/qt_capi.cpp b/bindings/resvg-qt/cpp/qt_capi.cpp
 		index cabda9d1..2a184b25 100644
@@ -65,7 +65,7 @@ Note: Many of the optional packages are included. Ruby (optional) has been remov
 
 		#include "qt_capi.hpp"
 		```
-    - Build as per the main documentation... expect the copy command for the dll is replaced by:
+    - Build as per the main documentation... except the copy command for the dll is replaced by:
 	 ```
 	 cp target/release/resvg.dll /usr/bin
      cp target/release/libresvg.dll.a /usr/lib
