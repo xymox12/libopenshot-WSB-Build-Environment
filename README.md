@@ -2,7 +2,7 @@
 
 LibOpenShot Repo and Windows Build docs: https://github.com/OpenShot/libopenshot
 
-These are notes of modifications/cahnges that allowed me to build the library. I need to rewrite these to follow the official documentation's order better.
+These are notes of modifications/cahnges that allowed me to build the library. The tests are still reporting errors so treat this as a WIP. 
 
 1. Download MSYS2 and GIT installers into the folder alongside the wsb file
 2. Change filenames & paths in wsb and ps1 file to match the location of these files.
